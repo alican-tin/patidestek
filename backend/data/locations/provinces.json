@@ -1,0 +1,326 @@
+[
+  {
+    "code": "01",
+    "name": "Adana"
+  },
+  {
+    "code": "02",
+    "name": "Adiyaman"
+  },
+  {
+    "code": "03",
+    "name": "Afyonkarahi̇sar"
+  },
+  {
+    "code": "04",
+    "name": "Ağri"
+  },
+  {
+    "code": "05",
+    "name": "Amasya"
+  },
+  {
+    "code": "06",
+    "name": "Ankara"
+  },
+  {
+    "code": "07",
+    "name": "Antalya"
+  },
+  {
+    "code": "08",
+    "name": "Artvi̇n"
+  },
+  {
+    "code": "09",
+    "name": "Aydin"
+  },
+  {
+    "code": "10",
+    "name": "Balikesi̇r"
+  },
+  {
+    "code": "11",
+    "name": "Bi̇leci̇k"
+  },
+  {
+    "code": "12",
+    "name": "Bi̇ngöl"
+  },
+  {
+    "code": "13",
+    "name": "Bi̇tli̇s"
+  },
+  {
+    "code": "14",
+    "name": "Bolu"
+  },
+  {
+    "code": "15",
+    "name": "Burdur"
+  },
+  {
+    "code": "16",
+    "name": "Bursa"
+  },
+  {
+    "code": "17",
+    "name": "Çanakkale"
+  },
+  {
+    "code": "18",
+    "name": "Çankiri"
+  },
+  {
+    "code": "19",
+    "name": "Çorum"
+  },
+  {
+    "code": "20",
+    "name": "Deni̇zli̇"
+  },
+  {
+    "code": "21",
+    "name": "Di̇yarbakir"
+  },
+  {
+    "code": "22",
+    "name": "Edi̇rne"
+  },
+  {
+    "code": "23",
+    "name": "Elaziğ"
+  },
+  {
+    "code": "24",
+    "name": "Erzi̇ncan"
+  },
+  {
+    "code": "25",
+    "name": "Erzurum"
+  },
+  {
+    "code": "26",
+    "name": "Eski̇şehi̇r"
+  },
+  {
+    "code": "27",
+    "name": "Gazi̇antep"
+  },
+  {
+    "code": "28",
+    "name": "Gi̇resun"
+  },
+  {
+    "code": "29",
+    "name": "Gümüşhane"
+  },
+  {
+    "code": "30",
+    "name": "Hakkari̇"
+  },
+  {
+    "code": "31",
+    "name": "Hatay"
+  },
+  {
+    "code": "32",
+    "name": "İsparta"
+  },
+  {
+    "code": "33",
+    "name": "Mersi̇n"
+  },
+  {
+    "code": "34",
+    "name": "İ̇stanbul"
+  },
+  {
+    "code": "35",
+    "name": "İ̇zmi̇r"
+  },
+  {
+    "code": "36",
+    "name": "Kars"
+  },
+  {
+    "code": "37",
+    "name": "Kastamonu"
+  },
+  {
+    "code": "38",
+    "name": "Kayseri̇"
+  },
+  {
+    "code": "39",
+    "name": "Kirklareli̇"
+  },
+  {
+    "code": "40",
+    "name": "Kirşehi̇r"
+  },
+  {
+    "code": "41",
+    "name": "Kocaeli̇"
+  },
+  {
+    "code": "42",
+    "name": "Konya"
+  },
+  {
+    "code": "43",
+    "name": "Kütahya"
+  },
+  {
+    "code": "44",
+    "name": "Malatya"
+  },
+  {
+    "code": "45",
+    "name": "Mani̇sa"
+  },
+  {
+    "code": "46",
+    "name": "Kahramanmaraş"
+  },
+  {
+    "code": "47",
+    "name": "Mardi̇n"
+  },
+  {
+    "code": "48",
+    "name": "Muğla"
+  },
+  {
+    "code": "49",
+    "name": "Muş"
+  },
+  {
+    "code": "50",
+    "name": "Nevşehi̇r"
+  },
+  {
+    "code": "51",
+    "name": "Ni̇ğde"
+  },
+  {
+    "code": "52",
+    "name": "Ordu"
+  },
+  {
+    "code": "53",
+    "name": "Ri̇ze"
+  },
+  {
+    "code": "54",
+    "name": "Sakarya"
+  },
+  {
+    "code": "55",
+    "name": "Samsun"
+  },
+  {
+    "code": "56",
+    "name": "Si̇i̇rt"
+  },
+  {
+    "code": "57",
+    "name": "Si̇nop"
+  },
+  {
+    "code": "58",
+    "name": "Si̇vas"
+  },
+  {
+    "code": "59",
+    "name": "Teki̇rdağ"
+  },
+  {
+    "code": "60",
+    "name": "Tokat"
+  },
+  {
+    "code": "61",
+    "name": "Trabzon"
+  },
+  {
+    "code": "62",
+    "name": "Tunceli̇"
+  },
+  {
+    "code": "63",
+    "name": "Şanliurfa"
+  },
+  {
+    "code": "64",
+    "name": "Uşak"
+  },
+  {
+    "code": "65",
+    "name": "Van"
+  },
+  {
+    "code": "66",
+    "name": "Yozgat"
+  },
+  {
+    "code": "67",
+    "name": "Zonguldak"
+  },
+  {
+    "code": "68",
+    "name": "Aksaray"
+  },
+  {
+    "code": "69",
+    "name": "Bayburt"
+  },
+  {
+    "code": "70",
+    "name": "Karaman"
+  },
+  {
+    "code": "71",
+    "name": "Kirikkale"
+  },
+  {
+    "code": "72",
+    "name": "Batman"
+  },
+  {
+    "code": "73",
+    "name": "Şirnak"
+  },
+  {
+    "code": "74",
+    "name": "Bartin"
+  },
+  {
+    "code": "75",
+    "name": "Ardahan"
+  },
+  {
+    "code": "76",
+    "name": "İğdir"
+  },
+  {
+    "code": "77",
+    "name": "Yalova"
+  },
+  {
+    "code": "78",
+    "name": "Karabük"
+  },
+  {
+    "code": "79",
+    "name": "Ki̇li̇s"
+  },
+  {
+    "code": "80",
+    "name": "Osmani̇ye"
+  },
+  {
+    "code": "81",
+    "name": "Düzce"
+  }
+]

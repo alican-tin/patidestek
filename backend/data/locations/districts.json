@@ -1,0 +1,4867 @@
+[
+  {
+    "code": "1104",
+    "name": "Seyhan",
+    "provinceCode": "01"
+  },
+  {
+    "code": "1219",
+    "name": "Ceyhan",
+    "provinceCode": "01"
+  },
+  {
+    "code": "1329",
+    "name": "Feke",
+    "provinceCode": "01"
+  },
+  {
+    "code": "1437",
+    "name": "Karai̇sali",
+    "provinceCode": "01"
+  },
+  {
+    "code": "1443",
+    "name": "Karataş",
+    "provinceCode": "01"
+  },
+  {
+    "code": "1486",
+    "name": "Kozan",
+    "provinceCode": "01"
+  },
+  {
+    "code": "1580",
+    "name": "Pozanti",
+    "provinceCode": "01"
+  },
+  {
+    "code": "1588",
+    "name": "Sai̇mbeyli̇",
+    "provinceCode": "01"
+  },
+  {
+    "code": "1687",
+    "name": "Tufanbeyli̇",
+    "provinceCode": "01"
+  },
+  {
+    "code": "1734",
+    "name": "Yumurtalik",
+    "provinceCode": "01"
+  },
+  {
+    "code": "1748",
+    "name": "Yüreği̇r",
+    "provinceCode": "01"
+  },
+  {
+    "code": "1757",
+    "name": "Aladağ",
+    "provinceCode": "01"
+  },
+  {
+    "code": "1806",
+    "name": "İ̇mamoğlu",
+    "provinceCode": "01"
+  },
+  {
+    "code": "2032",
+    "name": "Sariçam",
+    "provinceCode": "01"
+  },
+  {
+    "code": "2033",
+    "name": "Çukurova",
+    "provinceCode": "01"
+  },
+  {
+    "code": "1105",
+    "name": "Merkez",
+    "provinceCode": "02"
+  },
+  {
+    "code": "1182",
+    "name": "Besni̇",
+    "provinceCode": "02"
+  },
+  {
+    "code": "1246",
+    "name": "Çeli̇khan",
+    "provinceCode": "02"
+  },
+  {
+    "code": "1347",
+    "name": "Gerger",
+    "provinceCode": "02"
+  },
+  {
+    "code": "1354",
+    "name": "Gölbaşi",
+    "provinceCode": "02"
+  },
+  {
+    "code": "1425",
+    "name": "Kahta",
+    "provinceCode": "02"
+  },
+  {
+    "code": "1592",
+    "name": "Samsat",
+    "provinceCode": "02"
+  },
+  {
+    "code": "1985",
+    "name": "Si̇nci̇k",
+    "provinceCode": "02"
+  },
+  {
+    "code": "1989",
+    "name": "Tut",
+    "provinceCode": "02"
+  },
+  {
+    "code": "1108",
+    "name": "Merkez",
+    "provinceCode": "03"
+  },
+  {
+    "code": "1200",
+    "name": "Bolvadi̇n",
+    "provinceCode": "03"
+  },
+  {
+    "code": "1239",
+    "name": "Çay",
+    "provinceCode": "03"
+  },
+  {
+    "code": "1267",
+    "name": "Dazkiri",
+    "provinceCode": "03"
+  },
+  {
+    "code": "1281",
+    "name": "Di̇nar",
+    "provinceCode": "03"
+  },
+  {
+    "code": "1306",
+    "name": "Emi̇rdağ",
+    "provinceCode": "03"
+  },
+  {
+    "code": "1404",
+    "name": "İ̇hsani̇ye",
+    "provinceCode": "03"
+  },
+  {
+    "code": "1594",
+    "name": "Sandikli",
+    "provinceCode": "03"
+  },
+  {
+    "code": "1626",
+    "name": "Si̇nanpaşa",
+    "provinceCode": "03"
+  },
+  {
+    "code": "1639",
+    "name": "Sultandaği",
+    "provinceCode": "03"
+  },
+  {
+    "code": "1664",
+    "name": "Şuhut",
+    "provinceCode": "03"
+  },
+  {
+    "code": "1771",
+    "name": "Başmakçi",
+    "provinceCode": "03"
+  },
+  {
+    "code": "1773",
+    "name": "Bayat",
+    "provinceCode": "03"
+  },
+  {
+    "code": "1809",
+    "name": "İ̇scehi̇sar",
+    "provinceCode": "03"
+  },
+  {
+    "code": "1906",
+    "name": "Çobanlar",
+    "provinceCode": "03"
+  },
+  {
+    "code": "1923",
+    "name": "Evci̇ler",
+    "provinceCode": "03"
+  },
+  {
+    "code": "1944",
+    "name": "Hocalar",
+    "provinceCode": "03"
+  },
+  {
+    "code": "1961",
+    "name": "Kizilören",
+    "provinceCode": "03"
+  },
+  {
+    "code": "1111",
+    "name": "Merkez",
+    "provinceCode": "04"
+  },
+  {
+    "code": "1283",
+    "name": "Di̇yadi̇n",
+    "provinceCode": "04"
+  },
+  {
+    "code": "1287",
+    "name": "Doğubayazit",
+    "provinceCode": "04"
+  },
+  {
+    "code": "1301",
+    "name": "Eleşki̇rt",
+    "provinceCode": "04"
+  },
+  {
+    "code": "1379",
+    "name": "Hamur",
+    "provinceCode": "04"
+  },
+  {
+    "code": "1568",
+    "name": "Patnos",
+    "provinceCode": "04"
+  },
+  {
+    "code": "1667",
+    "name": "Taşliçay",
+    "provinceCode": "04"
+  },
+  {
+    "code": "1691",
+    "name": "Tutak",
+    "provinceCode": "04"
+  },
+  {
+    "code": "1134",
+    "name": "Merkez",
+    "provinceCode": "05"
+  },
+  {
+    "code": "1363",
+    "name": "Göynücek",
+    "provinceCode": "05"
+  },
+  {
+    "code": "1368",
+    "name": "Gümüşhaciköy",
+    "provinceCode": "05"
+  },
+  {
+    "code": "1524",
+    "name": "Merzi̇fon",
+    "provinceCode": "05"
+  },
+  {
+    "code": "1641",
+    "name": "Suluova",
+    "provinceCode": "05"
+  },
+  {
+    "code": "1668",
+    "name": "Taşova",
+    "provinceCode": "05"
+  },
+  {
+    "code": "1938",
+    "name": "Hamamözü",
+    "provinceCode": "05"
+  },
+  {
+    "code": "1130",
+    "name": "Altindağ",
+    "provinceCode": "06"
+  },
+  {
+    "code": "1157",
+    "name": "Ayaş",
+    "provinceCode": "06"
+  },
+  {
+    "code": "1167",
+    "name": "Bala",
+    "provinceCode": "06"
+  },
+  {
+    "code": "1187",
+    "name": "Beypazari",
+    "provinceCode": "06"
+  },
+  {
+    "code": "1227",
+    "name": "Çamlidere",
+    "provinceCode": "06"
+  },
+  {
+    "code": "1231",
+    "name": "Çankaya",
+    "provinceCode": "06"
+  },
+  {
+    "code": "1260",
+    "name": "Çubuk",
+    "provinceCode": "06"
+  },
+  {
+    "code": "1302",
+    "name": "Elmadağ",
+    "provinceCode": "06"
+  },
+  {
+    "code": "1365",
+    "name": "Güdül",
+    "provinceCode": "06"
+  },
+  {
+    "code": "1387",
+    "name": "Haymana",
+    "provinceCode": "06"
+  },
+  {
+    "code": "1427",
+    "name": "Kaleci̇k",
+    "provinceCode": "06"
+  },
+  {
+    "code": "1473",
+    "name": "Kizilcahamam",
+    "provinceCode": "06"
+  },
+  {
+    "code": "1539",
+    "name": "Nallihan",
+    "provinceCode": "06"
+  },
+  {
+    "code": "1578",
+    "name": "Polatli",
+    "provinceCode": "06"
+  },
+  {
+    "code": "1658",
+    "name": "Şerefli̇koçhi̇sar",
+    "provinceCode": "06"
+  },
+  {
+    "code": "1723",
+    "name": "Yeni̇mahalle",
+    "provinceCode": "06"
+  },
+  {
+    "code": "1744",
+    "name": "Gölbaşi",
+    "provinceCode": "06"
+  },
+  {
+    "code": "1745",
+    "name": "Keçi̇ören",
+    "provinceCode": "06"
+  },
+  {
+    "code": "1746",
+    "name": "Mamak",
+    "provinceCode": "06"
+  },
+  {
+    "code": "1747",
+    "name": "Si̇ncan",
+    "provinceCode": "06"
+  },
+  {
+    "code": "1815",
+    "name": "Kahramankazan",
+    "provinceCode": "06"
+  },
+  {
+    "code": "1872",
+    "name": "Akyurt",
+    "provinceCode": "06"
+  },
+  {
+    "code": "1922",
+    "name": "Eti̇mesgut",
+    "provinceCode": "06"
+  },
+  {
+    "code": "1924",
+    "name": "Evren",
+    "provinceCode": "06"
+  },
+  {
+    "code": "2034",
+    "name": "Pursaklar",
+    "provinceCode": "06"
+  },
+  {
+    "code": "1121",
+    "name": "Akseki̇",
+    "provinceCode": "07"
+  },
+  {
+    "code": "1126",
+    "name": "Alanya",
+    "provinceCode": "07"
+  },
+  {
+    "code": "1303",
+    "name": "Elmali",
+    "provinceCode": "07"
+  },
+  {
+    "code": "1333",
+    "name": "Fi̇ni̇ke",
+    "provinceCode": "07"
+  },
+  {
+    "code": "1337",
+    "name": "Gazi̇paşa",
+    "provinceCode": "07"
+  },
+  {
+    "code": "1370",
+    "name": "Gündoğmuş",
+    "provinceCode": "07"
+  },
+  {
+    "code": "1451",
+    "name": "Kaş",
+    "provinceCode": "07"
+  },
+  {
+    "code": "1483",
+    "name": "Korkuteli̇",
+    "provinceCode": "07"
+  },
+  {
+    "code": "1492",
+    "name": "Kumluca",
+    "provinceCode": "07"
+  },
+  {
+    "code": "1512",
+    "name": "Manavgat",
+    "provinceCode": "07"
+  },
+  {
+    "code": "1616",
+    "name": "Seri̇k",
+    "provinceCode": "07"
+  },
+  {
+    "code": "1811",
+    "name": "Demre",
+    "provinceCode": "07"
+  },
+  {
+    "code": "1946",
+    "name": "İ̇bradi",
+    "provinceCode": "07"
+  },
+  {
+    "code": "1959",
+    "name": "Kemer",
+    "provinceCode": "07"
+  },
+  {
+    "code": "2035",
+    "name": "Aksu",
+    "provinceCode": "07"
+  },
+  {
+    "code": "2036",
+    "name": "Döşemealti",
+    "provinceCode": "07"
+  },
+  {
+    "code": "2037",
+    "name": "Kepez",
+    "provinceCode": "07"
+  },
+  {
+    "code": "2038",
+    "name": "Konyaalti",
+    "provinceCode": "07"
+  },
+  {
+    "code": "2039",
+    "name": "Muratpaşa",
+    "provinceCode": "07"
+  },
+  {
+    "code": "1145",
+    "name": "Ardanuç",
+    "provinceCode": "08"
+  },
+  {
+    "code": "1147",
+    "name": "Arhavi̇",
+    "provinceCode": "08"
+  },
+  {
+    "code": "1152",
+    "name": "Merkez",
+    "provinceCode": "08"
+  },
+  {
+    "code": "1202",
+    "name": "Borçka",
+    "provinceCode": "08"
+  },
+  {
+    "code": "1395",
+    "name": "Hopa",
+    "provinceCode": "08"
+  },
+  {
+    "code": "1653",
+    "name": "Şavşat",
+    "provinceCode": "08"
+  },
+  {
+    "code": "1736",
+    "name": "Yusufeli̇",
+    "provinceCode": "08"
+  },
+  {
+    "code": "1828",
+    "name": "Murgul",
+    "provinceCode": "08"
+  },
+  {
+    "code": "2105",
+    "name": "Kemalpaşa",
+    "provinceCode": "08"
+  },
+  {
+    "code": "1206",
+    "name": "Bozdoğan",
+    "provinceCode": "09"
+  },
+  {
+    "code": "1256",
+    "name": "Çi̇ne",
+    "provinceCode": "09"
+  },
+  {
+    "code": "1348",
+    "name": "Germenci̇k",
+    "provinceCode": "09"
+  },
+  {
+    "code": "1435",
+    "name": "Karacasu",
+    "provinceCode": "09"
+  },
+  {
+    "code": "1479",
+    "name": "Koçarli",
+    "provinceCode": "09"
+  },
+  {
+    "code": "1497",
+    "name": "Kuşadasi",
+    "provinceCode": "09"
+  },
+  {
+    "code": "1498",
+    "name": "Kuyucak",
+    "provinceCode": "09"
+  },
+  {
+    "code": "1542",
+    "name": "Nazi̇lli̇",
+    "provinceCode": "09"
+  },
+  {
+    "code": "1637",
+    "name": "Söke",
+    "provinceCode": "09"
+  },
+  {
+    "code": "1640",
+    "name": "Sultanhi̇sar",
+    "provinceCode": "09"
+  },
+  {
+    "code": "1724",
+    "name": "Yeni̇pazar",
+    "provinceCode": "09"
+  },
+  {
+    "code": "1781",
+    "name": "Buharkent",
+    "provinceCode": "09"
+  },
+  {
+    "code": "1807",
+    "name": "İ̇nci̇rli̇ova",
+    "provinceCode": "09"
+  },
+  {
+    "code": "1957",
+    "name": "Karpuzlu",
+    "provinceCode": "09"
+  },
+  {
+    "code": "1968",
+    "name": "Köşk",
+    "provinceCode": "09"
+  },
+  {
+    "code": "2000",
+    "name": "Di̇di̇m",
+    "provinceCode": "09"
+  },
+  {
+    "code": "2076",
+    "name": "Efeler",
+    "provinceCode": "09"
+  },
+  {
+    "code": "1161",
+    "name": "Ayvalik",
+    "provinceCode": "10"
+  },
+  {
+    "code": "1169",
+    "name": "Balya",
+    "provinceCode": "10"
+  },
+  {
+    "code": "1171",
+    "name": "Bandirma",
+    "provinceCode": "10"
+  },
+  {
+    "code": "1191",
+    "name": "Bi̇gadi̇ç",
+    "provinceCode": "10"
+  },
+  {
+    "code": "1216",
+    "name": "Burhani̇ye",
+    "provinceCode": "10"
+  },
+  {
+    "code": "1291",
+    "name": "Dursunbey",
+    "provinceCode": "10"
+  },
+  {
+    "code": "1294",
+    "name": "Edremi̇t",
+    "provinceCode": "10"
+  },
+  {
+    "code": "1310",
+    "name": "Erdek",
+    "provinceCode": "10"
+  },
+  {
+    "code": "1360",
+    "name": "Gönen",
+    "provinceCode": "10"
+  },
+  {
+    "code": "1384",
+    "name": "Havran",
+    "provinceCode": "10"
+  },
+  {
+    "code": "1418",
+    "name": "İ̇vri̇ndi̇",
+    "provinceCode": "10"
+  },
+  {
+    "code": "1462",
+    "name": "Kepsut",
+    "provinceCode": "10"
+  },
+  {
+    "code": "1514",
+    "name": "Manyas",
+    "provinceCode": "10"
+  },
+  {
+    "code": "1608",
+    "name": "Savaştepe",
+    "provinceCode": "10"
+  },
+  {
+    "code": "1619",
+    "name": "Sindirgi",
+    "provinceCode": "10"
+  },
+  {
+    "code": "1644",
+    "name": "Susurluk",
+    "provinceCode": "10"
+  },
+  {
+    "code": "1824",
+    "name": "Marmara",
+    "provinceCode": "10"
+  },
+  {
+    "code": "1928",
+    "name": "Gömeç",
+    "provinceCode": "10"
+  },
+  {
+    "code": "2077",
+    "name": "Altieylül",
+    "provinceCode": "10"
+  },
+  {
+    "code": "2078",
+    "name": "Karesi̇",
+    "provinceCode": "10"
+  },
+  {
+    "code": "1192",
+    "name": "Merkez",
+    "provinceCode": "11"
+  },
+  {
+    "code": "1210",
+    "name": "Bozüyük",
+    "provinceCode": "11"
+  },
+  {
+    "code": "1359",
+    "name": "Gölpazari",
+    "provinceCode": "11"
+  },
+  {
+    "code": "1559",
+    "name": "Osmaneli̇",
+    "provinceCode": "11"
+  },
+  {
+    "code": "1571",
+    "name": "Pazaryeri̇",
+    "provinceCode": "11"
+  },
+  {
+    "code": "1636",
+    "name": "Söğüt",
+    "provinceCode": "11"
+  },
+  {
+    "code": "1857",
+    "name": "Yeni̇pazar",
+    "provinceCode": "11"
+  },
+  {
+    "code": "1948",
+    "name": "İ̇nhi̇sar",
+    "provinceCode": "11"
+  },
+  {
+    "code": "1193",
+    "name": "Merkez",
+    "provinceCode": "12"
+  },
+  {
+    "code": "1344",
+    "name": "Genç",
+    "provinceCode": "12"
+  },
+  {
+    "code": "1446",
+    "name": "Karliova",
+    "provinceCode": "12"
+  },
+  {
+    "code": "1475",
+    "name": "Ki̇ği",
+    "provinceCode": "12"
+  },
+  {
+    "code": "1633",
+    "name": "Solhan",
+    "provinceCode": "12"
+  },
+  {
+    "code": "1750",
+    "name": "Adakli",
+    "provinceCode": "12"
+  },
+  {
+    "code": "1855",
+    "name": "Yayladere",
+    "provinceCode": "12"
+  },
+  {
+    "code": "1996",
+    "name": "Yedi̇su",
+    "provinceCode": "12"
+  },
+  {
+    "code": "1106",
+    "name": "Adi̇lcevaz",
+    "provinceCode": "13"
+  },
+  {
+    "code": "1112",
+    "name": "Ahlat",
+    "provinceCode": "13"
+  },
+  {
+    "code": "1196",
+    "name": "Merkez",
+    "provinceCode": "13"
+  },
+  {
+    "code": "1394",
+    "name": "Hi̇zan",
+    "provinceCode": "13"
+  },
+  {
+    "code": "1537",
+    "name": "Mutki̇",
+    "provinceCode": "13"
+  },
+  {
+    "code": "1669",
+    "name": "Tatvan",
+    "provinceCode": "13"
+  },
+  {
+    "code": "1798",
+    "name": "Güroymak",
+    "provinceCode": "13"
+  },
+  {
+    "code": "1199",
+    "name": "Merkez",
+    "provinceCode": "14"
+  },
+  {
+    "code": "1346",
+    "name": "Gerede",
+    "provinceCode": "14"
+  },
+  {
+    "code": "1364",
+    "name": "Göynük",
+    "provinceCode": "14"
+  },
+  {
+    "code": "1466",
+    "name": "Kibriscik",
+    "provinceCode": "14"
+  },
+  {
+    "code": "1522",
+    "name": "Mengen",
+    "provinceCode": "14"
+  },
+  {
+    "code": "1531",
+    "name": "Mudurnu",
+    "provinceCode": "14"
+  },
+  {
+    "code": "1610",
+    "name": "Seben",
+    "provinceCode": "14"
+  },
+  {
+    "code": "1916",
+    "name": "Dörtdi̇van",
+    "provinceCode": "14"
+  },
+  {
+    "code": "1997",
+    "name": "Yeni̇çağa",
+    "provinceCode": "14"
+  },
+  {
+    "code": "1109",
+    "name": "Ağlasun",
+    "provinceCode": "15"
+  },
+  {
+    "code": "1211",
+    "name": "Bucak",
+    "provinceCode": "15"
+  },
+  {
+    "code": "1215",
+    "name": "Merkez",
+    "provinceCode": "15"
+  },
+  {
+    "code": "1357",
+    "name": "Gölhi̇sar",
+    "provinceCode": "15"
+  },
+  {
+    "code": "1672",
+    "name": "Tefenni̇",
+    "provinceCode": "15"
+  },
+  {
+    "code": "1728",
+    "name": "Yeşi̇lova",
+    "provinceCode": "15"
+  },
+  {
+    "code": "1813",
+    "name": "Karamanli",
+    "provinceCode": "15"
+  },
+  {
+    "code": "1816",
+    "name": "Kemer",
+    "provinceCode": "15"
+  },
+  {
+    "code": "1874",
+    "name": "Altinyayla",
+    "provinceCode": "15"
+  },
+  {
+    "code": "1899",
+    "name": "Çavdir",
+    "provinceCode": "15"
+  },
+  {
+    "code": "1903",
+    "name": "Çelti̇kçi̇",
+    "provinceCode": "15"
+  },
+  {
+    "code": "1343",
+    "name": "Gemli̇k",
+    "provinceCode": "16"
+  },
+  {
+    "code": "1411",
+    "name": "İ̇negöl",
+    "provinceCode": "16"
+  },
+  {
+    "code": "1420",
+    "name": "İ̇zni̇k",
+    "provinceCode": "16"
+  },
+  {
+    "code": "1434",
+    "name": "Karacabey",
+    "provinceCode": "16"
+  },
+  {
+    "code": "1457",
+    "name": "Keles",
+    "provinceCode": "16"
+  },
+  {
+    "code": "1530",
+    "name": "Mudanya",
+    "provinceCode": "16"
+  },
+  {
+    "code": "1535",
+    "name": "Mustafakemalpaşa",
+    "provinceCode": "16"
+  },
+  {
+    "code": "1553",
+    "name": "Orhaneli̇",
+    "provinceCode": "16"
+  },
+  {
+    "code": "1554",
+    "name": "Orhangazi̇",
+    "provinceCode": "16"
+  },
+  {
+    "code": "1725",
+    "name": "Yeni̇şehi̇r",
+    "provinceCode": "16"
+  },
+  {
+    "code": "1783",
+    "name": "Büyükorhan",
+    "provinceCode": "16"
+  },
+  {
+    "code": "1799",
+    "name": "Harmancik",
+    "provinceCode": "16"
+  },
+  {
+    "code": "1829",
+    "name": "Ni̇lüfer",
+    "provinceCode": "16"
+  },
+  {
+    "code": "1832",
+    "name": "Osmangazi̇",
+    "provinceCode": "16"
+  },
+  {
+    "code": "1859",
+    "name": "Yildirim",
+    "provinceCode": "16"
+  },
+  {
+    "code": "1935",
+    "name": "Gürsu",
+    "provinceCode": "16"
+  },
+  {
+    "code": "1960",
+    "name": "Kestel",
+    "provinceCode": "16"
+  },
+  {
+    "code": "1160",
+    "name": "Ayvacik",
+    "provinceCode": "17"
+  },
+  {
+    "code": "1180",
+    "name": "Bayrami̇ç",
+    "provinceCode": "17"
+  },
+  {
+    "code": "1190",
+    "name": "Bi̇ga",
+    "provinceCode": "17"
+  },
+  {
+    "code": "1205",
+    "name": "Bozcaada",
+    "provinceCode": "17"
+  },
+  {
+    "code": "1229",
+    "name": "Çan",
+    "provinceCode": "17"
+  },
+  {
+    "code": "1230",
+    "name": "Merkez",
+    "provinceCode": "17"
+  },
+  {
+    "code": "1293",
+    "name": "Eceabat",
+    "provinceCode": "17"
+  },
+  {
+    "code": "1326",
+    "name": "Ezi̇ne",
+    "provinceCode": "17"
+  },
+  {
+    "code": "1340",
+    "name": "Geli̇bolu",
+    "provinceCode": "17"
+  },
+  {
+    "code": "1408",
+    "name": "Gökçeada",
+    "provinceCode": "17"
+  },
+  {
+    "code": "1503",
+    "name": "Lapseki̇",
+    "provinceCode": "17"
+  },
+  {
+    "code": "1722",
+    "name": "Yeni̇ce",
+    "provinceCode": "17"
+  },
+  {
+    "code": "1232",
+    "name": "Merkez",
+    "provinceCode": "18"
+  },
+  {
+    "code": "1248",
+    "name": "Çerkeş",
+    "provinceCode": "18"
+  },
+  {
+    "code": "1300",
+    "name": "Eldi̇van",
+    "provinceCode": "18"
+  },
+  {
+    "code": "1399",
+    "name": "İlgaz",
+    "provinceCode": "18"
+  },
+  {
+    "code": "1494",
+    "name": "Kurşunlu",
+    "provinceCode": "18"
+  },
+  {
+    "code": "1555",
+    "name": "Orta",
+    "provinceCode": "18"
+  },
+  {
+    "code": "1649",
+    "name": "Şabanözü",
+    "provinceCode": "18"
+  },
+  {
+    "code": "1718",
+    "name": "Yaprakli",
+    "provinceCode": "18"
+  },
+  {
+    "code": "1765",
+    "name": "Atkaracalar",
+    "provinceCode": "18"
+  },
+  {
+    "code": "1817",
+    "name": "Kizilirmak",
+    "provinceCode": "18"
+  },
+  {
+    "code": "1885",
+    "name": "Bayramören",
+    "provinceCode": "18"
+  },
+  {
+    "code": "1963",
+    "name": "Korgun",
+    "provinceCode": "18"
+  },
+  {
+    "code": "1124",
+    "name": "Alaca",
+    "provinceCode": "19"
+  },
+  {
+    "code": "1177",
+    "name": "Bayat",
+    "provinceCode": "19"
+  },
+  {
+    "code": "1259",
+    "name": "Merkez",
+    "provinceCode": "19"
+  },
+  {
+    "code": "1414",
+    "name": "İ̇ski̇li̇p",
+    "provinceCode": "19"
+  },
+  {
+    "code": "1445",
+    "name": "Kargi",
+    "provinceCode": "19"
+  },
+  {
+    "code": "1520",
+    "name": "Meci̇tözü",
+    "provinceCode": "19"
+  },
+  {
+    "code": "1556",
+    "name": "Ortaköy",
+    "provinceCode": "19"
+  },
+  {
+    "code": "1558",
+    "name": "Osmancik",
+    "provinceCode": "19"
+  },
+  {
+    "code": "1642",
+    "name": "Sungurlu",
+    "provinceCode": "19"
+  },
+  {
+    "code": "1778",
+    "name": "Boğazkale",
+    "provinceCode": "19"
+  },
+  {
+    "code": "1850",
+    "name": "Uğurludağ",
+    "provinceCode": "19"
+  },
+  {
+    "code": "1911",
+    "name": "Dodurga",
+    "provinceCode": "19"
+  },
+  {
+    "code": "1972",
+    "name": "Laçi̇n",
+    "provinceCode": "19"
+  },
+  {
+    "code": "1976",
+    "name": "Oğuzlar",
+    "provinceCode": "19"
+  },
+  {
+    "code": "1102",
+    "name": "Acipayam",
+    "provinceCode": "20"
+  },
+  {
+    "code": "1214",
+    "name": "Buldan",
+    "provinceCode": "20"
+  },
+  {
+    "code": "1224",
+    "name": "Çal",
+    "provinceCode": "20"
+  },
+  {
+    "code": "1226",
+    "name": "Çameli̇",
+    "provinceCode": "20"
+  },
+  {
+    "code": "1233",
+    "name": "Çardak",
+    "provinceCode": "20"
+  },
+  {
+    "code": "1257",
+    "name": "Çi̇vri̇l",
+    "provinceCode": "20"
+  },
+  {
+    "code": "1371",
+    "name": "Güney",
+    "provinceCode": "20"
+  },
+  {
+    "code": "1426",
+    "name": "Kale",
+    "provinceCode": "20"
+  },
+  {
+    "code": "1597",
+    "name": "Sarayköy",
+    "provinceCode": "20"
+  },
+  {
+    "code": "1670",
+    "name": "Tavas",
+    "provinceCode": "20"
+  },
+  {
+    "code": "1769",
+    "name": "Babadağ",
+    "provinceCode": "20"
+  },
+  {
+    "code": "1774",
+    "name": "Beki̇lli̇",
+    "provinceCode": "20"
+  },
+  {
+    "code": "1803",
+    "name": "Honaz",
+    "provinceCode": "20"
+  },
+  {
+    "code": "1840",
+    "name": "Seri̇nhi̇sar",
+    "provinceCode": "20"
+  },
+  {
+    "code": "1871",
+    "name": "Pamukkale",
+    "provinceCode": "20"
+  },
+  {
+    "code": "1881",
+    "name": "Baklan",
+    "provinceCode": "20"
+  },
+  {
+    "code": "1888",
+    "name": "Beyağaç",
+    "provinceCode": "20"
+  },
+  {
+    "code": "1889",
+    "name": "Bozkurt",
+    "provinceCode": "20"
+  },
+  {
+    "code": "2079",
+    "name": "Merkezefendi̇",
+    "provinceCode": "20"
+  },
+  {
+    "code": "1195",
+    "name": "Bi̇smi̇l",
+    "provinceCode": "21"
+  },
+  {
+    "code": "1249",
+    "name": "Çermi̇k",
+    "provinceCode": "21"
+  },
+  {
+    "code": "1253",
+    "name": "Çinar",
+    "provinceCode": "21"
+  },
+  {
+    "code": "1263",
+    "name": "Çüngüş",
+    "provinceCode": "21"
+  },
+  {
+    "code": "1278",
+    "name": "Di̇cle",
+    "provinceCode": "21"
+  },
+  {
+    "code": "1315",
+    "name": "Ergani̇",
+    "provinceCode": "21"
+  },
+  {
+    "code": "1381",
+    "name": "Hani̇",
+    "provinceCode": "21"
+  },
+  {
+    "code": "1389",
+    "name": "Hazro",
+    "provinceCode": "21"
+  },
+  {
+    "code": "1490",
+    "name": "Kulp",
+    "provinceCode": "21"
+  },
+  {
+    "code": "1504",
+    "name": "Li̇ce",
+    "provinceCode": "21"
+  },
+  {
+    "code": "1624",
+    "name": "Si̇lvan",
+    "provinceCode": "21"
+  },
+  {
+    "code": "1791",
+    "name": "Eği̇l",
+    "provinceCode": "21"
+  },
+  {
+    "code": "1962",
+    "name": "Kocaköy",
+    "provinceCode": "21"
+  },
+  {
+    "code": "2040",
+    "name": "Bağlar",
+    "provinceCode": "21"
+  },
+  {
+    "code": "2041",
+    "name": "Kayapinar",
+    "provinceCode": "21"
+  },
+  {
+    "code": "2042",
+    "name": "Sur",
+    "provinceCode": "21"
+  },
+  {
+    "code": "2043",
+    "name": "Yeni̇şehi̇r",
+    "provinceCode": "21"
+  },
+  {
+    "code": "1295",
+    "name": "Merkez",
+    "provinceCode": "22"
+  },
+  {
+    "code": "1307",
+    "name": "Enez",
+    "provinceCode": "22"
+  },
+  {
+    "code": "1385",
+    "name": "Havsa",
+    "provinceCode": "22"
+  },
+  {
+    "code": "1412",
+    "name": "İ̇psala",
+    "provinceCode": "22"
+  },
+  {
+    "code": "1464",
+    "name": "Keşan",
+    "provinceCode": "22"
+  },
+  {
+    "code": "1502",
+    "name": "Lalapaşa",
+    "provinceCode": "22"
+  },
+  {
+    "code": "1523",
+    "name": "Meri̇ç",
+    "provinceCode": "22"
+  },
+  {
+    "code": "1705",
+    "name": "Uzunköprü",
+    "provinceCode": "22"
+  },
+  {
+    "code": "1988",
+    "name": "Süloğlu",
+    "provinceCode": "22"
+  },
+  {
+    "code": "1110",
+    "name": "Ağin",
+    "provinceCode": "23"
+  },
+  {
+    "code": "1173",
+    "name": "Baski̇l",
+    "provinceCode": "23"
+  },
+  {
+    "code": "1298",
+    "name": "Merkez",
+    "provinceCode": "23"
+  },
+  {
+    "code": "1438",
+    "name": "Karakoçan",
+    "provinceCode": "23"
+  },
+  {
+    "code": "1455",
+    "name": "Keban",
+    "provinceCode": "23"
+  },
+  {
+    "code": "1506",
+    "name": "Maden",
+    "provinceCode": "23"
+  },
+  {
+    "code": "1566",
+    "name": "Palu",
+    "provinceCode": "23"
+  },
+  {
+    "code": "1631",
+    "name": "Si̇vri̇ce",
+    "provinceCode": "23"
+  },
+  {
+    "code": "1762",
+    "name": "Aricak",
+    "provinceCode": "23"
+  },
+  {
+    "code": "1820",
+    "name": "Kovancilar",
+    "provinceCode": "23"
+  },
+  {
+    "code": "1873",
+    "name": "Alacakaya",
+    "provinceCode": "23"
+  },
+  {
+    "code": "1243",
+    "name": "Çayirli",
+    "provinceCode": "24"
+  },
+  {
+    "code": "1318",
+    "name": "Merkez",
+    "provinceCode": "24"
+  },
+  {
+    "code": "1406",
+    "name": "İ̇li̇ç",
+    "provinceCode": "24"
+  },
+  {
+    "code": "1459",
+    "name": "Kemah",
+    "provinceCode": "24"
+  },
+  {
+    "code": "1460",
+    "name": "Kemali̇ye",
+    "provinceCode": "24"
+  },
+  {
+    "code": "1583",
+    "name": "Refahi̇ye",
+    "provinceCode": "24"
+  },
+  {
+    "code": "1675",
+    "name": "Tercan",
+    "provinceCode": "24"
+  },
+  {
+    "code": "1853",
+    "name": "Üzümlü",
+    "provinceCode": "24"
+  },
+  {
+    "code": "1977",
+    "name": "Otlukbeli̇",
+    "provinceCode": "24"
+  },
+  {
+    "code": "1153",
+    "name": "Aşkale",
+    "provinceCode": "25"
+  },
+  {
+    "code": "1235",
+    "name": "Çat",
+    "provinceCode": "25"
+  },
+  {
+    "code": "1392",
+    "name": "Hinis",
+    "provinceCode": "25"
+  },
+  {
+    "code": "1396",
+    "name": "Horasan",
+    "provinceCode": "25"
+  },
+  {
+    "code": "1416",
+    "name": "İ̇spi̇r",
+    "provinceCode": "25"
+  },
+  {
+    "code": "1444",
+    "name": "Karayazi",
+    "provinceCode": "25"
+  },
+  {
+    "code": "1540",
+    "name": "Narman",
+    "provinceCode": "25"
+  },
+  {
+    "code": "1550",
+    "name": "Oltu",
+    "provinceCode": "25"
+  },
+  {
+    "code": "1551",
+    "name": "Olur",
+    "provinceCode": "25"
+  },
+  {
+    "code": "1567",
+    "name": "Pasi̇nler",
+    "provinceCode": "25"
+  },
+  {
+    "code": "1657",
+    "name": "Şenkaya",
+    "provinceCode": "25"
+  },
+  {
+    "code": "1674",
+    "name": "Tekman",
+    "provinceCode": "25"
+  },
+  {
+    "code": "1683",
+    "name": "Tortum",
+    "provinceCode": "25"
+  },
+  {
+    "code": "1812",
+    "name": "Karaçoban",
+    "provinceCode": "25"
+  },
+  {
+    "code": "1851",
+    "name": "Uzundere",
+    "provinceCode": "25"
+  },
+  {
+    "code": "1865",
+    "name": "Pazaryolu",
+    "provinceCode": "25"
+  },
+  {
+    "code": "1945",
+    "name": "Azi̇zi̇ye",
+    "provinceCode": "25"
+  },
+  {
+    "code": "1967",
+    "name": "Köprüköy",
+    "provinceCode": "25"
+  },
+  {
+    "code": "2044",
+    "name": "Palandöken",
+    "provinceCode": "25"
+  },
+  {
+    "code": "2045",
+    "name": "Yakuti̇ye",
+    "provinceCode": "25"
+  },
+  {
+    "code": "1255",
+    "name": "Çi̇fteler",
+    "provinceCode": "26"
+  },
+  {
+    "code": "1508",
+    "name": "Mahmudi̇ye",
+    "provinceCode": "26"
+  },
+  {
+    "code": "1527",
+    "name": "Mi̇haliççik",
+    "provinceCode": "26"
+  },
+  {
+    "code": "1599",
+    "name": "Saricakaya",
+    "provinceCode": "26"
+  },
+  {
+    "code": "1618",
+    "name": "Seyi̇tgazi̇",
+    "provinceCode": "26"
+  },
+  {
+    "code": "1632",
+    "name": "Si̇vri̇hi̇sar",
+    "provinceCode": "26"
+  },
+  {
+    "code": "1759",
+    "name": "Alpu",
+    "provinceCode": "26"
+  },
+  {
+    "code": "1777",
+    "name": "Beyli̇kova",
+    "provinceCode": "26"
+  },
+  {
+    "code": "1808",
+    "name": "İ̇nönü",
+    "provinceCode": "26"
+  },
+  {
+    "code": "1934",
+    "name": "Günyüzü",
+    "provinceCode": "26"
+  },
+  {
+    "code": "1939",
+    "name": "Han",
+    "provinceCode": "26"
+  },
+  {
+    "code": "1973",
+    "name": "Mi̇halgazi̇",
+    "provinceCode": "26"
+  },
+  {
+    "code": "2046",
+    "name": "Odunpazari",
+    "provinceCode": "26"
+  },
+  {
+    "code": "2047",
+    "name": "Tepebaşi",
+    "provinceCode": "26"
+  },
+  {
+    "code": "1139",
+    "name": "Araban",
+    "provinceCode": "27"
+  },
+  {
+    "code": "1415",
+    "name": "İ̇slahi̇ye",
+    "provinceCode": "27"
+  },
+  {
+    "code": "1546",
+    "name": "Ni̇zi̇p",
+    "provinceCode": "27"
+  },
+  {
+    "code": "1549",
+    "name": "Oğuzeli̇",
+    "provinceCode": "27"
+  },
+  {
+    "code": "1720",
+    "name": "Yavuzeli̇",
+    "provinceCode": "27"
+  },
+  {
+    "code": "1841",
+    "name": "Şahi̇nbey",
+    "provinceCode": "27"
+  },
+  {
+    "code": "1844",
+    "name": "Şehi̇tkami̇l",
+    "provinceCode": "27"
+  },
+  {
+    "code": "1956",
+    "name": "Karkamiş",
+    "provinceCode": "27"
+  },
+  {
+    "code": "1974",
+    "name": "Nurdaği",
+    "provinceCode": "27"
+  },
+  {
+    "code": "1133",
+    "name": "Alucra",
+    "provinceCode": "28"
+  },
+  {
+    "code": "1212",
+    "name": "Bulancak",
+    "provinceCode": "28"
+  },
+  {
+    "code": "1272",
+    "name": "Dereli̇",
+    "provinceCode": "28"
+  },
+  {
+    "code": "1320",
+    "name": "Espi̇ye",
+    "provinceCode": "28"
+  },
+  {
+    "code": "1324",
+    "name": "Eynesi̇l",
+    "provinceCode": "28"
+  },
+  {
+    "code": "1352",
+    "name": "Merkez",
+    "provinceCode": "28"
+  },
+  {
+    "code": "1361",
+    "name": "Görele",
+    "provinceCode": "28"
+  },
+  {
+    "code": "1465",
+    "name": "Keşap",
+    "provinceCode": "28"
+  },
+  {
+    "code": "1654",
+    "name": "Şebi̇nkarahi̇sar",
+    "provinceCode": "28"
+  },
+  {
+    "code": "1678",
+    "name": "Ti̇rebolu",
+    "provinceCode": "28"
+  },
+  {
+    "code": "1837",
+    "name": "Pi̇razi̇z",
+    "provinceCode": "28"
+  },
+  {
+    "code": "1854",
+    "name": "Yağlidere",
+    "provinceCode": "28"
+  },
+  {
+    "code": "1893",
+    "name": "Çamoluk",
+    "provinceCode": "28"
+  },
+  {
+    "code": "1894",
+    "name": "Çanakçi",
+    "provinceCode": "28"
+  },
+  {
+    "code": "1912",
+    "name": "Doğankent",
+    "provinceCode": "28"
+  },
+  {
+    "code": "1930",
+    "name": "Güce",
+    "provinceCode": "28"
+  },
+  {
+    "code": "1369",
+    "name": "Merkez",
+    "provinceCode": "29"
+  },
+  {
+    "code": "1458",
+    "name": "Kelki̇t",
+    "provinceCode": "29"
+  },
+  {
+    "code": "1660",
+    "name": "Şi̇ran",
+    "provinceCode": "29"
+  },
+  {
+    "code": "1684",
+    "name": "Torul",
+    "provinceCode": "29"
+  },
+  {
+    "code": "1822",
+    "name": "Köse",
+    "provinceCode": "29"
+  },
+  {
+    "code": "1971",
+    "name": "Kürtün",
+    "provinceCode": "29"
+  },
+  {
+    "code": "1261",
+    "name": "Çukurca",
+    "provinceCode": "30"
+  },
+  {
+    "code": "1377",
+    "name": "Merkez",
+    "provinceCode": "30"
+  },
+  {
+    "code": "1656",
+    "name": "Şemdi̇nli̇",
+    "provinceCode": "30"
+  },
+  {
+    "code": "1737",
+    "name": "Yüksekova",
+    "provinceCode": "30"
+  },
+  {
+    "code": "2107",
+    "name": "Dereci̇k",
+    "provinceCode": "30"
+  },
+  {
+    "code": "1131",
+    "name": "Altinözü",
+    "provinceCode": "31"
+  },
+  {
+    "code": "1289",
+    "name": "Dörtyol",
+    "provinceCode": "31"
+  },
+  {
+    "code": "1382",
+    "name": "Hassa",
+    "provinceCode": "31"
+  },
+  {
+    "code": "1413",
+    "name": "İ̇skenderun",
+    "provinceCode": "31"
+  },
+  {
+    "code": "1468",
+    "name": "Kirikhan",
+    "provinceCode": "31"
+  },
+  {
+    "code": "1585",
+    "name": "Reyhanli",
+    "provinceCode": "31"
+  },
+  {
+    "code": "1591",
+    "name": "Samandağ",
+    "provinceCode": "31"
+  },
+  {
+    "code": "1721",
+    "name": "Yayladaği",
+    "provinceCode": "31"
+  },
+  {
+    "code": "1792",
+    "name": "Erzi̇n",
+    "provinceCode": "31"
+  },
+  {
+    "code": "1887",
+    "name": "Belen",
+    "provinceCode": "31"
+  },
+  {
+    "code": "1970",
+    "name": "Kumlu",
+    "provinceCode": "31"
+  },
+  {
+    "code": "2080",
+    "name": "Antakya",
+    "provinceCode": "31"
+  },
+  {
+    "code": "2081",
+    "name": "Arsuz",
+    "provinceCode": "31"
+  },
+  {
+    "code": "2082",
+    "name": "Defne",
+    "provinceCode": "31"
+  },
+  {
+    "code": "2083",
+    "name": "Payas",
+    "provinceCode": "31"
+  },
+  {
+    "code": "1154",
+    "name": "Atabey",
+    "provinceCode": "32"
+  },
+  {
+    "code": "1297",
+    "name": "Eği̇rdi̇r",
+    "provinceCode": "32"
+  },
+  {
+    "code": "1341",
+    "name": "Gelendost",
+    "provinceCode": "32"
+  },
+  {
+    "code": "1401",
+    "name": "Merkez",
+    "provinceCode": "32"
+  },
+  {
+    "code": "1456",
+    "name": "Keçi̇borlu",
+    "provinceCode": "32"
+  },
+  {
+    "code": "1615",
+    "name": "Seni̇rkent",
+    "provinceCode": "32"
+  },
+  {
+    "code": "1648",
+    "name": "Sütçüler",
+    "provinceCode": "32"
+  },
+  {
+    "code": "1651",
+    "name": "Şarki̇karaağaç",
+    "provinceCode": "32"
+  },
+  {
+    "code": "1699",
+    "name": "Uluborlu",
+    "provinceCode": "32"
+  },
+  {
+    "code": "1717",
+    "name": "Yalvaç",
+    "provinceCode": "32"
+  },
+  {
+    "code": "1755",
+    "name": "Aksu",
+    "provinceCode": "32"
+  },
+  {
+    "code": "1929",
+    "name": "Gönen",
+    "provinceCode": "32"
+  },
+  {
+    "code": "2001",
+    "name": "Yeni̇şarbademli̇",
+    "provinceCode": "32"
+  },
+  {
+    "code": "1135",
+    "name": "Anamur",
+    "provinceCode": "33"
+  },
+  {
+    "code": "1311",
+    "name": "Erdemli̇",
+    "provinceCode": "33"
+  },
+  {
+    "code": "1366",
+    "name": "Gülnar",
+    "provinceCode": "33"
+  },
+  {
+    "code": "1536",
+    "name": "Mut",
+    "provinceCode": "33"
+  },
+  {
+    "code": "1621",
+    "name": "Si̇li̇fke",
+    "provinceCode": "33"
+  },
+  {
+    "code": "1665",
+    "name": "Tarsus",
+    "provinceCode": "33"
+  },
+  {
+    "code": "1766",
+    "name": "Aydincik",
+    "provinceCode": "33"
+  },
+  {
+    "code": "1779",
+    "name": "Bozyazi",
+    "provinceCode": "33"
+  },
+  {
+    "code": "1892",
+    "name": "Çamliyayla",
+    "provinceCode": "33"
+  },
+  {
+    "code": "2064",
+    "name": "Akdeni̇z",
+    "provinceCode": "33"
+  },
+  {
+    "code": "2065",
+    "name": "Mezi̇tli̇",
+    "provinceCode": "33"
+  },
+  {
+    "code": "2066",
+    "name": "Toroslar",
+    "provinceCode": "33"
+  },
+  {
+    "code": "2067",
+    "name": "Yeni̇şehi̇r",
+    "provinceCode": "33"
+  },
+  {
+    "code": "1103",
+    "name": "Adalar",
+    "provinceCode": "34"
+  },
+  {
+    "code": "1166",
+    "name": "Bakirköy",
+    "provinceCode": "34"
+  },
+  {
+    "code": "1183",
+    "name": "Beşi̇ktaş",
+    "provinceCode": "34"
+  },
+  {
+    "code": "1185",
+    "name": "Beykoz",
+    "provinceCode": "34"
+  },
+  {
+    "code": "1186",
+    "name": "Beyoğlu",
+    "provinceCode": "34"
+  },
+  {
+    "code": "1237",
+    "name": "Çatalca",
+    "provinceCode": "34"
+  },
+  {
+    "code": "1325",
+    "name": "Eyüpsultan",
+    "provinceCode": "34"
+  },
+  {
+    "code": "1327",
+    "name": "Fati̇h",
+    "provinceCode": "34"
+  },
+  {
+    "code": "1336",
+    "name": "Gazi̇osmanpaşa",
+    "provinceCode": "34"
+  },
+  {
+    "code": "1421",
+    "name": "Kadiköy",
+    "provinceCode": "34"
+  },
+  {
+    "code": "1449",
+    "name": "Kartal",
+    "provinceCode": "34"
+  },
+  {
+    "code": "1604",
+    "name": "Sariyer",
+    "provinceCode": "34"
+  },
+  {
+    "code": "1622",
+    "name": "Si̇li̇vri̇",
+    "provinceCode": "34"
+  },
+  {
+    "code": "1659",
+    "name": "Şi̇le",
+    "provinceCode": "34"
+  },
+  {
+    "code": "1663",
+    "name": "Şi̇şli̇",
+    "provinceCode": "34"
+  },
+  {
+    "code": "1708",
+    "name": "Üsküdar",
+    "provinceCode": "34"
+  },
+  {
+    "code": "1739",
+    "name": "Zeyti̇nburnu",
+    "provinceCode": "34"
+  },
+  {
+    "code": "1782",
+    "name": "Büyükçekmece",
+    "provinceCode": "34"
+  },
+  {
+    "code": "1810",
+    "name": "Kağithane",
+    "provinceCode": "34"
+  },
+  {
+    "code": "1823",
+    "name": "Küçükçekmece",
+    "provinceCode": "34"
+  },
+  {
+    "code": "1835",
+    "name": "Pendi̇k",
+    "provinceCode": "34"
+  },
+  {
+    "code": "1852",
+    "name": "Ümrani̇ye",
+    "provinceCode": "34"
+  },
+  {
+    "code": "1886",
+    "name": "Bayrampaşa",
+    "provinceCode": "34"
+  },
+  {
+    "code": "2003",
+    "name": "Avcilar",
+    "provinceCode": "34"
+  },
+  {
+    "code": "2004",
+    "name": "Bağcilar",
+    "provinceCode": "34"
+  },
+  {
+    "code": "2005",
+    "name": "Bahçeli̇evler",
+    "provinceCode": "34"
+  },
+  {
+    "code": "2010",
+    "name": "Güngören",
+    "provinceCode": "34"
+  },
+  {
+    "code": "2012",
+    "name": "Maltepe",
+    "provinceCode": "34"
+  },
+  {
+    "code": "2014",
+    "name": "Sultanbeyli̇",
+    "provinceCode": "34"
+  },
+  {
+    "code": "2015",
+    "name": "Tuzla",
+    "provinceCode": "34"
+  },
+  {
+    "code": "2016",
+    "name": "Esenler",
+    "provinceCode": "34"
+  },
+  {
+    "code": "2048",
+    "name": "Arnavutköy",
+    "provinceCode": "34"
+  },
+  {
+    "code": "2049",
+    "name": "Ataşehi̇r",
+    "provinceCode": "34"
+  },
+  {
+    "code": "2050",
+    "name": "Başakşehi̇r",
+    "provinceCode": "34"
+  },
+  {
+    "code": "2051",
+    "name": "Beyli̇kdüzü",
+    "provinceCode": "34"
+  },
+  {
+    "code": "2052",
+    "name": "Çekmeköy",
+    "provinceCode": "34"
+  },
+  {
+    "code": "2053",
+    "name": "Esenyurt",
+    "provinceCode": "34"
+  },
+  {
+    "code": "2054",
+    "name": "Sancaktepe",
+    "provinceCode": "34"
+  },
+  {
+    "code": "2055",
+    "name": "Sultangazi̇",
+    "provinceCode": "34"
+  },
+  {
+    "code": "1128",
+    "name": "Ali̇ağa",
+    "provinceCode": "35"
+  },
+  {
+    "code": "1178",
+    "name": "Bayindir",
+    "provinceCode": "35"
+  },
+  {
+    "code": "1181",
+    "name": "Bergama",
+    "provinceCode": "35"
+  },
+  {
+    "code": "1203",
+    "name": "Bornova",
+    "provinceCode": "35"
+  },
+  {
+    "code": "1251",
+    "name": "Çeşme",
+    "provinceCode": "35"
+  },
+  {
+    "code": "1280",
+    "name": "Di̇ki̇li̇",
+    "provinceCode": "35"
+  },
+  {
+    "code": "1334",
+    "name": "Foça",
+    "provinceCode": "35"
+  },
+  {
+    "code": "1432",
+    "name": "Karaburun",
+    "provinceCode": "35"
+  },
+  {
+    "code": "1448",
+    "name": "Karşiyaka",
+    "provinceCode": "35"
+  },
+  {
+    "code": "1461",
+    "name": "Kemalpaşa",
+    "provinceCode": "35"
+  },
+  {
+    "code": "1467",
+    "name": "Kinik",
+    "provinceCode": "35"
+  },
+  {
+    "code": "1477",
+    "name": "Ki̇raz",
+    "provinceCode": "35"
+  },
+  {
+    "code": "1521",
+    "name": "Menemen",
+    "provinceCode": "35"
+  },
+  {
+    "code": "1563",
+    "name": "Ödemi̇ş",
+    "provinceCode": "35"
+  },
+  {
+    "code": "1611",
+    "name": "Seferi̇hi̇sar",
+    "provinceCode": "35"
+  },
+  {
+    "code": "1612",
+    "name": "Selçuk",
+    "provinceCode": "35"
+  },
+  {
+    "code": "1677",
+    "name": "Ti̇re",
+    "provinceCode": "35"
+  },
+  {
+    "code": "1682",
+    "name": "Torbali",
+    "provinceCode": "35"
+  },
+  {
+    "code": "1703",
+    "name": "Urla",
+    "provinceCode": "35"
+  },
+  {
+    "code": "1776",
+    "name": "Beydağ",
+    "provinceCode": "35"
+  },
+  {
+    "code": "1780",
+    "name": "Buca",
+    "provinceCode": "35"
+  },
+  {
+    "code": "1819",
+    "name": "Konak",
+    "provinceCode": "35"
+  },
+  {
+    "code": "1826",
+    "name": "Menderes",
+    "provinceCode": "35"
+  },
+  {
+    "code": "2006",
+    "name": "Balçova",
+    "provinceCode": "35"
+  },
+  {
+    "code": "2007",
+    "name": "Çi̇ğli̇",
+    "provinceCode": "35"
+  },
+  {
+    "code": "2009",
+    "name": "Gazi̇emi̇r",
+    "provinceCode": "35"
+  },
+  {
+    "code": "2013",
+    "name": "Narlidere",
+    "provinceCode": "35"
+  },
+  {
+    "code": "2018",
+    "name": "Güzelbahçe",
+    "provinceCode": "35"
+  },
+  {
+    "code": "2056",
+    "name": "Bayrakli",
+    "provinceCode": "35"
+  },
+  {
+    "code": "2057",
+    "name": "Karabağlar",
+    "provinceCode": "35"
+  },
+  {
+    "code": "1149",
+    "name": "Arpaçay",
+    "provinceCode": "36"
+  },
+  {
+    "code": "1279",
+    "name": "Di̇gor",
+    "provinceCode": "36"
+  },
+  {
+    "code": "1424",
+    "name": "Kağizman",
+    "provinceCode": "36"
+  },
+  {
+    "code": "1447",
+    "name": "Merkez",
+    "provinceCode": "36"
+  },
+  {
+    "code": "1601",
+    "name": "Sarikamiş",
+    "provinceCode": "36"
+  },
+  {
+    "code": "1614",
+    "name": "Seli̇m",
+    "provinceCode": "36"
+  },
+  {
+    "code": "1645",
+    "name": "Susuz",
+    "provinceCode": "36"
+  },
+  {
+    "code": "1756",
+    "name": "Akyaka",
+    "provinceCode": "36"
+  },
+  {
+    "code": "1101",
+    "name": "Abana",
+    "provinceCode": "37"
+  },
+  {
+    "code": "1140",
+    "name": "Araç",
+    "provinceCode": "37"
+  },
+  {
+    "code": "1162",
+    "name": "Azdavay",
+    "provinceCode": "37"
+  },
+  {
+    "code": "1208",
+    "name": "Bozkurt",
+    "provinceCode": "37"
+  },
+  {
+    "code": "1221",
+    "name": "Ci̇de",
+    "provinceCode": "37"
+  },
+  {
+    "code": "1238",
+    "name": "Çatalzeyti̇n",
+    "provinceCode": "37"
+  },
+  {
+    "code": "1264",
+    "name": "Daday",
+    "provinceCode": "37"
+  },
+  {
+    "code": "1277",
+    "name": "Devrekani̇",
+    "provinceCode": "37"
+  },
+  {
+    "code": "1410",
+    "name": "İ̇nebolu",
+    "provinceCode": "37"
+  },
+  {
+    "code": "1450",
+    "name": "Merkez",
+    "provinceCode": "37"
+  },
+  {
+    "code": "1499",
+    "name": "Küre",
+    "provinceCode": "37"
+  },
+  {
+    "code": "1666",
+    "name": "Taşköprü",
+    "provinceCode": "37"
+  },
+  {
+    "code": "1685",
+    "name": "Tosya",
+    "provinceCode": "37"
+  },
+  {
+    "code": "1805",
+    "name": "İ̇hsangazi̇",
+    "provinceCode": "37"
+  },
+  {
+    "code": "1836",
+    "name": "Pinarbaşi",
+    "provinceCode": "37"
+  },
+  {
+    "code": "1845",
+    "name": "Şenpazar",
+    "provinceCode": "37"
+  },
+  {
+    "code": "1867",
+    "name": "Ağli",
+    "provinceCode": "37"
+  },
+  {
+    "code": "1915",
+    "name": "Doğanyurt",
+    "provinceCode": "37"
+  },
+  {
+    "code": "1940",
+    "name": "Hanönü",
+    "provinceCode": "37"
+  },
+  {
+    "code": "1984",
+    "name": "Seydi̇ler",
+    "provinceCode": "37"
+  },
+  {
+    "code": "1218",
+    "name": "Bünyan",
+    "provinceCode": "38"
+  },
+  {
+    "code": "1275",
+    "name": "Develi̇",
+    "provinceCode": "38"
+  },
+  {
+    "code": "1330",
+    "name": "Felahi̇ye",
+    "provinceCode": "38"
+  },
+  {
+    "code": "1409",
+    "name": "İ̇ncesu",
+    "provinceCode": "38"
+  },
+  {
+    "code": "1576",
+    "name": "Pinarbaşi",
+    "provinceCode": "38"
+  },
+  {
+    "code": "1603",
+    "name": "Sarioğlan",
+    "provinceCode": "38"
+  },
+  {
+    "code": "1605",
+    "name": "Sariz",
+    "provinceCode": "38"
+  },
+  {
+    "code": "1680",
+    "name": "Tomarza",
+    "provinceCode": "38"
+  },
+  {
+    "code": "1715",
+    "name": "Yahyali",
+    "provinceCode": "38"
+  },
+  {
+    "code": "1727",
+    "name": "Yeşi̇lhi̇sar",
+    "provinceCode": "38"
+  },
+  {
+    "code": "1752",
+    "name": "Akkişla",
+    "provinceCode": "38"
+  },
+  {
+    "code": "1846",
+    "name": "Talas",
+    "provinceCode": "38"
+  },
+  {
+    "code": "1863",
+    "name": "Kocasi̇nan",
+    "provinceCode": "38"
+  },
+  {
+    "code": "1864",
+    "name": "Meli̇kgazi̇",
+    "provinceCode": "38"
+  },
+  {
+    "code": "1936",
+    "name": "Hacilar",
+    "provinceCode": "38"
+  },
+  {
+    "code": "1978",
+    "name": "Özvatan",
+    "provinceCode": "38"
+  },
+  {
+    "code": "1163",
+    "name": "Babaeski̇",
+    "provinceCode": "39"
+  },
+  {
+    "code": "1270",
+    "name": "Demi̇rköy",
+    "provinceCode": "39"
+  },
+  {
+    "code": "1471",
+    "name": "Merkez",
+    "provinceCode": "39"
+  },
+  {
+    "code": "1480",
+    "name": "Kofçaz",
+    "provinceCode": "39"
+  },
+  {
+    "code": "1505",
+    "name": "Lüleburgaz",
+    "provinceCode": "39"
+  },
+  {
+    "code": "1572",
+    "name": "Pehli̇vanköy",
+    "provinceCode": "39"
+  },
+  {
+    "code": "1577",
+    "name": "Pinarhi̇sar",
+    "provinceCode": "39"
+  },
+  {
+    "code": "1714",
+    "name": "Vi̇ze",
+    "provinceCode": "39"
+  },
+  {
+    "code": "1254",
+    "name": "Çi̇çekdaği",
+    "provinceCode": "40"
+  },
+  {
+    "code": "1429",
+    "name": "Kaman",
+    "provinceCode": "40"
+  },
+  {
+    "code": "1472",
+    "name": "Merkez",
+    "provinceCode": "40"
+  },
+  {
+    "code": "1529",
+    "name": "Mucur",
+    "provinceCode": "40"
+  },
+  {
+    "code": "1754",
+    "name": "Akpinar",
+    "provinceCode": "40"
+  },
+  {
+    "code": "1869",
+    "name": "Akçakent",
+    "provinceCode": "40"
+  },
+  {
+    "code": "1890",
+    "name": "Boztepe",
+    "provinceCode": "40"
+  },
+  {
+    "code": "1338",
+    "name": "Gebze",
+    "provinceCode": "41"
+  },
+  {
+    "code": "1355",
+    "name": "Gölcük",
+    "provinceCode": "41"
+  },
+  {
+    "code": "1430",
+    "name": "Kandira",
+    "provinceCode": "41"
+  },
+  {
+    "code": "1440",
+    "name": "Karamürsel",
+    "provinceCode": "41"
+  },
+  {
+    "code": "1821",
+    "name": "Körfez",
+    "provinceCode": "41"
+  },
+  {
+    "code": "2030",
+    "name": "Deri̇nce",
+    "provinceCode": "41"
+  },
+  {
+    "code": "2058",
+    "name": "Başi̇skele",
+    "provinceCode": "41"
+  },
+  {
+    "code": "2059",
+    "name": "Çayirova",
+    "provinceCode": "41"
+  },
+  {
+    "code": "2060",
+    "name": "Darica",
+    "provinceCode": "41"
+  },
+  {
+    "code": "2061",
+    "name": "Di̇lovasi",
+    "provinceCode": "41"
+  },
+  {
+    "code": "2062",
+    "name": "İ̇zmi̇t",
+    "provinceCode": "41"
+  },
+  {
+    "code": "2063",
+    "name": "Kartepe",
+    "provinceCode": "41"
+  },
+  {
+    "code": "1122",
+    "name": "Akşehi̇r",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1188",
+    "name": "Beyşehi̇r",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1207",
+    "name": "Bozkir",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1222",
+    "name": "Ci̇hanbeyli̇",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1262",
+    "name": "Çumra",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1285",
+    "name": "Doğanhi̇sar",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1312",
+    "name": "Ereğli̇",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1375",
+    "name": "Hadi̇m",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1400",
+    "name": "İlgin",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1422",
+    "name": "Kadinhani",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1441",
+    "name": "Karapinar",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1491",
+    "name": "Kulu",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1598",
+    "name": "Sarayönü",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1617",
+    "name": "Seydi̇şehi̇r",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1735",
+    "name": "Yunak",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1753",
+    "name": "Akören",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1760",
+    "name": "Altineki̇n",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1789",
+    "name": "Derebucak",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1804",
+    "name": "Hüyük",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1814",
+    "name": "Karatay",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1827",
+    "name": "Meram",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1839",
+    "name": "Selçuklu",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1848",
+    "name": "Taşkent",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1868",
+    "name": "Ahirli",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1902",
+    "name": "Çelti̇k",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1907",
+    "name": "Derbent",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1920",
+    "name": "Emi̇rgazi̇",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1933",
+    "name": "Güneysinir",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1937",
+    "name": "Halkapinar",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1990",
+    "name": "Tuzlukçu",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1994",
+    "name": "Yalihüyük",
+    "provinceCode": "42"
+  },
+  {
+    "code": "1132",
+    "name": "Altintaş",
+    "provinceCode": "43"
+  },
+  {
+    "code": "1288",
+    "name": "Domani̇ç",
+    "provinceCode": "43"
+  },
+  {
+    "code": "1304",
+    "name": "Emet",
+    "provinceCode": "43"
+  },
+  {
+    "code": "1339",
+    "name": "Gedi̇z",
+    "provinceCode": "43"
+  },
+  {
+    "code": "1500",
+    "name": "Merkez",
+    "provinceCode": "43"
+  },
+  {
+    "code": "1625",
+    "name": "Si̇mav",
+    "provinceCode": "43"
+  },
+  {
+    "code": "1671",
+    "name": "Tavşanli",
+    "provinceCode": "43"
+  },
+  {
+    "code": "1764",
+    "name": "Aslanapa",
+    "provinceCode": "43"
+  },
+  {
+    "code": "1790",
+    "name": "Dumlupinar",
+    "provinceCode": "43"
+  },
+  {
+    "code": "1802",
+    "name": "Hi̇sarcik",
+    "provinceCode": "43"
+  },
+  {
+    "code": "1843",
+    "name": "Şaphane",
+    "provinceCode": "43"
+  },
+  {
+    "code": "1898",
+    "name": "Çavdarhi̇sar",
+    "provinceCode": "43"
+  },
+  {
+    "code": "1979",
+    "name": "Pazarlar",
+    "provinceCode": "43"
+  },
+  {
+    "code": "1114",
+    "name": "Akçadağ",
+    "provinceCode": "44"
+  },
+  {
+    "code": "1143",
+    "name": "Arapgi̇r",
+    "provinceCode": "44"
+  },
+  {
+    "code": "1148",
+    "name": "Arguvan",
+    "provinceCode": "44"
+  },
+  {
+    "code": "1265",
+    "name": "Darende",
+    "provinceCode": "44"
+  },
+  {
+    "code": "1286",
+    "name": "Doğanşehi̇r",
+    "provinceCode": "44"
+  },
+  {
+    "code": "1390",
+    "name": "Heki̇mhan",
+    "provinceCode": "44"
+  },
+  {
+    "code": "1582",
+    "name": "Pütürge",
+    "provinceCode": "44"
+  },
+  {
+    "code": "1729",
+    "name": "Yeşi̇lyurt",
+    "provinceCode": "44"
+  },
+  {
+    "code": "1772",
+    "name": "Battalgazi̇",
+    "provinceCode": "44"
+  },
+  {
+    "code": "1914",
+    "name": "Doğanyol",
+    "provinceCode": "44"
+  },
+  {
+    "code": "1953",
+    "name": "Kale",
+    "provinceCode": "44"
+  },
+  {
+    "code": "1969",
+    "name": "Kuluncak",
+    "provinceCode": "44"
+  },
+  {
+    "code": "1995",
+    "name": "Yazihan",
+    "provinceCode": "44"
+  },
+  {
+    "code": "1118",
+    "name": "Akhi̇sar",
+    "provinceCode": "45"
+  },
+  {
+    "code": "1127",
+    "name": "Alaşehi̇r",
+    "provinceCode": "45"
+  },
+  {
+    "code": "1269",
+    "name": "Demi̇rci̇",
+    "provinceCode": "45"
+  },
+  {
+    "code": "1362",
+    "name": "Gördes",
+    "provinceCode": "45"
+  },
+  {
+    "code": "1470",
+    "name": "Kirkağaç",
+    "provinceCode": "45"
+  },
+  {
+    "code": "1489",
+    "name": "Kula",
+    "provinceCode": "45"
+  },
+  {
+    "code": "1590",
+    "name": "Sali̇hli̇",
+    "provinceCode": "45"
+  },
+  {
+    "code": "1600",
+    "name": "Sarigöl",
+    "provinceCode": "45"
+  },
+  {
+    "code": "1606",
+    "name": "Saruhanli",
+    "provinceCode": "45"
+  },
+  {
+    "code": "1613",
+    "name": "Selendi̇",
+    "provinceCode": "45"
+  },
+  {
+    "code": "1634",
+    "name": "Soma",
+    "provinceCode": "45"
+  },
+  {
+    "code": "1689",
+    "name": "Turgutlu",
+    "provinceCode": "45"
+  },
+  {
+    "code": "1751",
+    "name": "Ahmetli̇",
+    "provinceCode": "45"
+  },
+  {
+    "code": "1793",
+    "name": "Gölmarmara",
+    "provinceCode": "45"
+  },
+  {
+    "code": "1965",
+    "name": "Köprübaşi",
+    "provinceCode": "45"
+  },
+  {
+    "code": "2086",
+    "name": "Şehzadeler",
+    "provinceCode": "45"
+  },
+  {
+    "code": "2087",
+    "name": "Yunusemre",
+    "provinceCode": "45"
+  },
+  {
+    "code": "1107",
+    "name": "Afşi̇n",
+    "provinceCode": "46"
+  },
+  {
+    "code": "1136",
+    "name": "Andirin",
+    "provinceCode": "46"
+  },
+  {
+    "code": "1299",
+    "name": "Elbi̇stan",
+    "provinceCode": "46"
+  },
+  {
+    "code": "1353",
+    "name": "Göksun",
+    "provinceCode": "46"
+  },
+  {
+    "code": "1570",
+    "name": "Pazarcik",
+    "provinceCode": "46"
+  },
+  {
+    "code": "1694",
+    "name": "Türkoğlu",
+    "provinceCode": "46"
+  },
+  {
+    "code": "1785",
+    "name": "Çağlayanceri̇t",
+    "provinceCode": "46"
+  },
+  {
+    "code": "1919",
+    "name": "Eki̇nözü",
+    "provinceCode": "46"
+  },
+  {
+    "code": "1975",
+    "name": "Nurhak",
+    "provinceCode": "46"
+  },
+  {
+    "code": "2084",
+    "name": "Dulkadi̇roğlu",
+    "provinceCode": "46"
+  },
+  {
+    "code": "2085",
+    "name": "Oni̇ki̇şubat",
+    "provinceCode": "46"
+  },
+  {
+    "code": "1273",
+    "name": "Deri̇k",
+    "provinceCode": "47"
+  },
+  {
+    "code": "1474",
+    "name": "Kiziltepe",
+    "provinceCode": "47"
+  },
+  {
+    "code": "1519",
+    "name": "Mazidaği",
+    "provinceCode": "47"
+  },
+  {
+    "code": "1526",
+    "name": "Mi̇dyat",
+    "provinceCode": "47"
+  },
+  {
+    "code": "1547",
+    "name": "Nusaybi̇n",
+    "provinceCode": "47"
+  },
+  {
+    "code": "1564",
+    "name": "Ömerli̇",
+    "provinceCode": "47"
+  },
+  {
+    "code": "1609",
+    "name": "Savur",
+    "provinceCode": "47"
+  },
+  {
+    "code": "1787",
+    "name": "Dargeçi̇t",
+    "provinceCode": "47"
+  },
+  {
+    "code": "2002",
+    "name": "Yeşi̇lli̇",
+    "provinceCode": "47"
+  },
+  {
+    "code": "2088",
+    "name": "Artuklu",
+    "provinceCode": "47"
+  },
+  {
+    "code": "1197",
+    "name": "Bodrum",
+    "provinceCode": "48"
+  },
+  {
+    "code": "1266",
+    "name": "Datça",
+    "provinceCode": "48"
+  },
+  {
+    "code": "1331",
+    "name": "Fethi̇ye",
+    "provinceCode": "48"
+  },
+  {
+    "code": "1488",
+    "name": "Köyceği̇z",
+    "provinceCode": "48"
+  },
+  {
+    "code": "1517",
+    "name": "Marmari̇s",
+    "provinceCode": "48"
+  },
+  {
+    "code": "1528",
+    "name": "Mi̇las",
+    "provinceCode": "48"
+  },
+  {
+    "code": "1695",
+    "name": "Ula",
+    "provinceCode": "48"
+  },
+  {
+    "code": "1719",
+    "name": "Yatağan",
+    "provinceCode": "48"
+  },
+  {
+    "code": "1742",
+    "name": "Dalaman",
+    "provinceCode": "48"
+  },
+  {
+    "code": "1831",
+    "name": "Ortaca",
+    "provinceCode": "48"
+  },
+  {
+    "code": "1958",
+    "name": "Kavaklidere",
+    "provinceCode": "48"
+  },
+  {
+    "code": "2089",
+    "name": "Menteşe",
+    "provinceCode": "48"
+  },
+  {
+    "code": "2090",
+    "name": "Seydi̇kemer",
+    "provinceCode": "48"
+  },
+  {
+    "code": "1213",
+    "name": "Bulanik",
+    "provinceCode": "49"
+  },
+  {
+    "code": "1510",
+    "name": "Malazgi̇rt",
+    "provinceCode": "49"
+  },
+  {
+    "code": "1534",
+    "name": "Merkez",
+    "provinceCode": "49"
+  },
+  {
+    "code": "1711",
+    "name": "Varto",
+    "provinceCode": "49"
+  },
+  {
+    "code": "1801",
+    "name": "Hasköy",
+    "provinceCode": "49"
+  },
+  {
+    "code": "1964",
+    "name": "Korkut",
+    "provinceCode": "49"
+  },
+  {
+    "code": "1155",
+    "name": "Avanos",
+    "provinceCode": "50"
+  },
+  {
+    "code": "1274",
+    "name": "Deri̇nkuyu",
+    "provinceCode": "50"
+  },
+  {
+    "code": "1367",
+    "name": "Gülşehi̇r",
+    "provinceCode": "50"
+  },
+  {
+    "code": "1374",
+    "name": "Hacibektaş",
+    "provinceCode": "50"
+  },
+  {
+    "code": "1485",
+    "name": "Kozakli",
+    "provinceCode": "50"
+  },
+  {
+    "code": "1543",
+    "name": "Merkez",
+    "provinceCode": "50"
+  },
+  {
+    "code": "1707",
+    "name": "Ürgüp",
+    "provinceCode": "50"
+  },
+  {
+    "code": "1749",
+    "name": "Acigöl",
+    "provinceCode": "50"
+  },
+  {
+    "code": "1201",
+    "name": "Bor",
+    "provinceCode": "51"
+  },
+  {
+    "code": "1225",
+    "name": "Çamardi",
+    "provinceCode": "51"
+  },
+  {
+    "code": "1544",
+    "name": "Merkez",
+    "provinceCode": "51"
+  },
+  {
+    "code": "1700",
+    "name": "Ulukişla",
+    "provinceCode": "51"
+  },
+  {
+    "code": "1876",
+    "name": "Altunhi̇sar",
+    "provinceCode": "51"
+  },
+  {
+    "code": "1904",
+    "name": "Çi̇ftli̇k",
+    "provinceCode": "51"
+  },
+  {
+    "code": "1119",
+    "name": "Akkuş",
+    "provinceCode": "52"
+  },
+  {
+    "code": "1158",
+    "name": "Aybasti",
+    "provinceCode": "52"
+  },
+  {
+    "code": "1328",
+    "name": "Fatsa",
+    "provinceCode": "52"
+  },
+  {
+    "code": "1358",
+    "name": "Gölköy",
+    "provinceCode": "52"
+  },
+  {
+    "code": "1482",
+    "name": "Korgan",
+    "provinceCode": "52"
+  },
+  {
+    "code": "1493",
+    "name": "Kumru",
+    "provinceCode": "52"
+  },
+  {
+    "code": "1525",
+    "name": "Mesudi̇ye",
+    "provinceCode": "52"
+  },
+  {
+    "code": "1573",
+    "name": "Perşembe",
+    "provinceCode": "52"
+  },
+  {
+    "code": "1696",
+    "name": "Ulubey",
+    "provinceCode": "52"
+  },
+  {
+    "code": "1706",
+    "name": "Ünye",
+    "provinceCode": "52"
+  },
+  {
+    "code": "1795",
+    "name": "Gülyali",
+    "provinceCode": "52"
+  },
+  {
+    "code": "1797",
+    "name": "Gürgentepe",
+    "provinceCode": "52"
+  },
+  {
+    "code": "1891",
+    "name": "Çamaş",
+    "provinceCode": "52"
+  },
+  {
+    "code": "1897",
+    "name": "Çatalpinar",
+    "provinceCode": "52"
+  },
+  {
+    "code": "1900",
+    "name": "Çaybaşi",
+    "provinceCode": "52"
+  },
+  {
+    "code": "1947",
+    "name": "İ̇ki̇zce",
+    "provinceCode": "52"
+  },
+  {
+    "code": "1950",
+    "name": "Kabadüz",
+    "provinceCode": "52"
+  },
+  {
+    "code": "1951",
+    "name": "Kabataş",
+    "provinceCode": "52"
+  },
+  {
+    "code": "2103",
+    "name": "Altinordu",
+    "provinceCode": "52"
+  },
+  {
+    "code": "1146",
+    "name": "Ardeşen",
+    "provinceCode": "53"
+  },
+  {
+    "code": "1228",
+    "name": "Çamlihemşi̇n",
+    "provinceCode": "53"
+  },
+  {
+    "code": "1241",
+    "name": "Çayeli̇",
+    "provinceCode": "53"
+  },
+  {
+    "code": "1332",
+    "name": "Findikli",
+    "provinceCode": "53"
+  },
+  {
+    "code": "1405",
+    "name": "İ̇ki̇zdere",
+    "provinceCode": "53"
+  },
+  {
+    "code": "1428",
+    "name": "Kalkandere",
+    "provinceCode": "53"
+  },
+  {
+    "code": "1569",
+    "name": "Pazar",
+    "provinceCode": "53"
+  },
+  {
+    "code": "1586",
+    "name": "Merkez",
+    "provinceCode": "53"
+  },
+  {
+    "code": "1796",
+    "name": "Güneysu",
+    "provinceCode": "53"
+  },
+  {
+    "code": "1908",
+    "name": "Derepazari",
+    "provinceCode": "53"
+  },
+  {
+    "code": "1943",
+    "name": "Hemşi̇n",
+    "provinceCode": "53"
+  },
+  {
+    "code": "1949",
+    "name": "İ̇yi̇dere",
+    "provinceCode": "53"
+  },
+  {
+    "code": "1123",
+    "name": "Akyazi",
+    "provinceCode": "54"
+  },
+  {
+    "code": "1351",
+    "name": "Geyve",
+    "provinceCode": "54"
+  },
+  {
+    "code": "1391",
+    "name": "Hendek",
+    "provinceCode": "54"
+  },
+  {
+    "code": "1442",
+    "name": "Karasu",
+    "provinceCode": "54"
+  },
+  {
+    "code": "1453",
+    "name": "Kaynarca",
+    "provinceCode": "54"
+  },
+  {
+    "code": "1595",
+    "name": "Sapanca",
+    "provinceCode": "54"
+  },
+  {
+    "code": "1818",
+    "name": "Kocaali̇",
+    "provinceCode": "54"
+  },
+  {
+    "code": "1833",
+    "name": "Pamukova",
+    "provinceCode": "54"
+  },
+  {
+    "code": "1847",
+    "name": "Tarakli",
+    "provinceCode": "54"
+  },
+  {
+    "code": "1925",
+    "name": "Feri̇zli̇",
+    "provinceCode": "54"
+  },
+  {
+    "code": "1955",
+    "name": "Karapürçek",
+    "provinceCode": "54"
+  },
+  {
+    "code": "1986",
+    "name": "Söğütlü",
+    "provinceCode": "54"
+  },
+  {
+    "code": "2068",
+    "name": "Adapazari",
+    "provinceCode": "54"
+  },
+  {
+    "code": "2069",
+    "name": "Ari̇fi̇ye",
+    "provinceCode": "54"
+  },
+  {
+    "code": "2070",
+    "name": "Erenler",
+    "provinceCode": "54"
+  },
+  {
+    "code": "2071",
+    "name": "Serdi̇van",
+    "provinceCode": "54"
+  },
+  {
+    "code": "1125",
+    "name": "Alaçam",
+    "provinceCode": "55"
+  },
+  {
+    "code": "1164",
+    "name": "Bafra",
+    "provinceCode": "55"
+  },
+  {
+    "code": "1234",
+    "name": "Çarşamba",
+    "provinceCode": "55"
+  },
+  {
+    "code": "1386",
+    "name": "Havza",
+    "provinceCode": "55"
+  },
+  {
+    "code": "1452",
+    "name": "Kavak",
+    "provinceCode": "55"
+  },
+  {
+    "code": "1501",
+    "name": "Ladi̇k",
+    "provinceCode": "55"
+  },
+  {
+    "code": "1676",
+    "name": "Terme",
+    "provinceCode": "55"
+  },
+  {
+    "code": "1712",
+    "name": "Vezi̇rköprü",
+    "provinceCode": "55"
+  },
+  {
+    "code": "1763",
+    "name": "Asarcik",
+    "provinceCode": "55"
+  },
+  {
+    "code": "1830",
+    "name": "19 Mayis",
+    "provinceCode": "55"
+  },
+  {
+    "code": "1838",
+    "name": "Salipazari",
+    "provinceCode": "55"
+  },
+  {
+    "code": "1849",
+    "name": "Tekkeköy",
+    "provinceCode": "55"
+  },
+  {
+    "code": "1879",
+    "name": "Ayvacik",
+    "provinceCode": "55"
+  },
+  {
+    "code": "1993",
+    "name": "Yakakent",
+    "provinceCode": "55"
+  },
+  {
+    "code": "2072",
+    "name": "Atakum",
+    "provinceCode": "55"
+  },
+  {
+    "code": "2073",
+    "name": "Cani̇k",
+    "provinceCode": "55"
+  },
+  {
+    "code": "2074",
+    "name": "İ̇lkadim",
+    "provinceCode": "55"
+  },
+  {
+    "code": "1179",
+    "name": "Baykan",
+    "provinceCode": "56"
+  },
+  {
+    "code": "1317",
+    "name": "Eruh",
+    "provinceCode": "56"
+  },
+  {
+    "code": "1495",
+    "name": "Kurtalan",
+    "provinceCode": "56"
+  },
+  {
+    "code": "1575",
+    "name": "Pervari̇",
+    "provinceCode": "56"
+  },
+  {
+    "code": "1620",
+    "name": "Merkez",
+    "provinceCode": "56"
+  },
+  {
+    "code": "1662",
+    "name": "Şi̇rvan",
+    "provinceCode": "56"
+  },
+  {
+    "code": "1878",
+    "name": "Ti̇llo",
+    "provinceCode": "56"
+  },
+  {
+    "code": "1156",
+    "name": "Ayancik",
+    "provinceCode": "57"
+  },
+  {
+    "code": "1204",
+    "name": "Boyabat",
+    "provinceCode": "57"
+  },
+  {
+    "code": "1290",
+    "name": "Durağan",
+    "provinceCode": "57"
+  },
+  {
+    "code": "1314",
+    "name": "Erfelek",
+    "provinceCode": "57"
+  },
+  {
+    "code": "1349",
+    "name": "Gerze",
+    "provinceCode": "57"
+  },
+  {
+    "code": "1627",
+    "name": "Merkez",
+    "provinceCode": "57"
+  },
+  {
+    "code": "1693",
+    "name": "Türkeli̇",
+    "provinceCode": "57"
+  },
+  {
+    "code": "1910",
+    "name": "Di̇kmen",
+    "provinceCode": "57"
+  },
+  {
+    "code": "1981",
+    "name": "Saraydüzü",
+    "provinceCode": "57"
+  },
+  {
+    "code": "1282",
+    "name": "Di̇vri̇ği̇",
+    "provinceCode": "58"
+  },
+  {
+    "code": "1342",
+    "name": "Gemerek",
+    "provinceCode": "58"
+  },
+  {
+    "code": "1373",
+    "name": "Gürün",
+    "provinceCode": "58"
+  },
+  {
+    "code": "1376",
+    "name": "Hafi̇k",
+    "provinceCode": "58"
+  },
+  {
+    "code": "1407",
+    "name": "İ̇mranli",
+    "provinceCode": "58"
+  },
+  {
+    "code": "1431",
+    "name": "Kangal",
+    "provinceCode": "58"
+  },
+  {
+    "code": "1484",
+    "name": "Koyulhi̇sar",
+    "provinceCode": "58"
+  },
+  {
+    "code": "1628",
+    "name": "Merkez",
+    "provinceCode": "58"
+  },
+  {
+    "code": "1646",
+    "name": "Suşehri̇",
+    "provinceCode": "58"
+  },
+  {
+    "code": "1650",
+    "name": "Şarkişla",
+    "provinceCode": "58"
+  },
+  {
+    "code": "1731",
+    "name": "Yildizeli̇",
+    "provinceCode": "58"
+  },
+  {
+    "code": "1738",
+    "name": "Zara",
+    "provinceCode": "58"
+  },
+  {
+    "code": "1870",
+    "name": "Akincilar",
+    "provinceCode": "58"
+  },
+  {
+    "code": "1875",
+    "name": "Altinyayla",
+    "provinceCode": "58"
+  },
+  {
+    "code": "1913",
+    "name": "Doğanşar",
+    "provinceCode": "58"
+  },
+  {
+    "code": "1927",
+    "name": "Gölova",
+    "provinceCode": "58"
+  },
+  {
+    "code": "1991",
+    "name": "Ulaş",
+    "provinceCode": "58"
+  },
+  {
+    "code": "1250",
+    "name": "Çerkezköy",
+    "provinceCode": "59"
+  },
+  {
+    "code": "1258",
+    "name": "Çorlu",
+    "provinceCode": "59"
+  },
+  {
+    "code": "1388",
+    "name": "Hayrabolu",
+    "provinceCode": "59"
+  },
+  {
+    "code": "1511",
+    "name": "Malkara",
+    "provinceCode": "59"
+  },
+  {
+    "code": "1538",
+    "name": "Muratli",
+    "provinceCode": "59"
+  },
+  {
+    "code": "1596",
+    "name": "Saray",
+    "provinceCode": "59"
+  },
+  {
+    "code": "1652",
+    "name": "Şarköy",
+    "provinceCode": "59"
+  },
+  {
+    "code": "1825",
+    "name": "Marmaraereğli̇si̇",
+    "provinceCode": "59"
+  },
+  {
+    "code": "2094",
+    "name": "Ergene",
+    "provinceCode": "59"
+  },
+  {
+    "code": "2095",
+    "name": "Kapakli",
+    "provinceCode": "59"
+  },
+  {
+    "code": "2096",
+    "name": "Süleymanpaşa",
+    "provinceCode": "59"
+  },
+  {
+    "code": "1129",
+    "name": "Almus",
+    "provinceCode": "60"
+  },
+  {
+    "code": "1151",
+    "name": "Artova",
+    "provinceCode": "60"
+  },
+  {
+    "code": "1308",
+    "name": "Erbaa",
+    "provinceCode": "60"
+  },
+  {
+    "code": "1545",
+    "name": "Ni̇ksar",
+    "provinceCode": "60"
+  },
+  {
+    "code": "1584",
+    "name": "Reşadi̇ye",
+    "provinceCode": "60"
+  },
+  {
+    "code": "1679",
+    "name": "Merkez",
+    "provinceCode": "60"
+  },
+  {
+    "code": "1690",
+    "name": "Turhal",
+    "provinceCode": "60"
+  },
+  {
+    "code": "1740",
+    "name": "Zi̇le",
+    "provinceCode": "60"
+  },
+  {
+    "code": "1834",
+    "name": "Pazar",
+    "provinceCode": "60"
+  },
+  {
+    "code": "1858",
+    "name": "Yeşi̇lyurt",
+    "provinceCode": "60"
+  },
+  {
+    "code": "1883",
+    "name": "Başçi̇ftli̇k",
+    "provinceCode": "60"
+  },
+  {
+    "code": "1987",
+    "name": "Sulusaray",
+    "provinceCode": "60"
+  },
+  {
+    "code": "1113",
+    "name": "Akçaabat",
+    "provinceCode": "61"
+  },
+  {
+    "code": "1141",
+    "name": "Arakli",
+    "provinceCode": "61"
+  },
+  {
+    "code": "1150",
+    "name": "Arsi̇n",
+    "provinceCode": "61"
+  },
+  {
+    "code": "1244",
+    "name": "Çaykara",
+    "provinceCode": "61"
+  },
+  {
+    "code": "1507",
+    "name": "Maçka",
+    "provinceCode": "61"
+  },
+  {
+    "code": "1548",
+    "name": "Of",
+    "provinceCode": "61"
+  },
+  {
+    "code": "1647",
+    "name": "Sürmene",
+    "provinceCode": "61"
+  },
+  {
+    "code": "1681",
+    "name": "Tonya",
+    "provinceCode": "61"
+  },
+  {
+    "code": "1709",
+    "name": "Vakfikebi̇r",
+    "provinceCode": "61"
+  },
+  {
+    "code": "1732",
+    "name": "Yomra",
+    "provinceCode": "61"
+  },
+  {
+    "code": "1775",
+    "name": "Beşi̇kdüzü",
+    "provinceCode": "61"
+  },
+  {
+    "code": "1842",
+    "name": "Şalpazari",
+    "provinceCode": "61"
+  },
+  {
+    "code": "1896",
+    "name": "Çarşibaşi",
+    "provinceCode": "61"
+  },
+  {
+    "code": "1909",
+    "name": "Dernekpazari",
+    "provinceCode": "61"
+  },
+  {
+    "code": "1917",
+    "name": "Düzköy",
+    "provinceCode": "61"
+  },
+  {
+    "code": "1942",
+    "name": "Hayrat",
+    "provinceCode": "61"
+  },
+  {
+    "code": "1966",
+    "name": "Köprübaşi",
+    "provinceCode": "61"
+  },
+  {
+    "code": "2097",
+    "name": "Ortahi̇sar",
+    "provinceCode": "61"
+  },
+  {
+    "code": "1247",
+    "name": "Çemi̇şgezek",
+    "provinceCode": "62"
+  },
+  {
+    "code": "1397",
+    "name": "Hozat",
+    "provinceCode": "62"
+  },
+  {
+    "code": "1518",
+    "name": "Mazgi̇rt",
+    "provinceCode": "62"
+  },
+  {
+    "code": "1541",
+    "name": "Nazimi̇ye",
+    "provinceCode": "62"
+  },
+  {
+    "code": "1562",
+    "name": "Ovacik",
+    "provinceCode": "62"
+  },
+  {
+    "code": "1574",
+    "name": "Pertek",
+    "provinceCode": "62"
+  },
+  {
+    "code": "1581",
+    "name": "Pülümür",
+    "provinceCode": "62"
+  },
+  {
+    "code": "1688",
+    "name": "Merkez",
+    "provinceCode": "62"
+  },
+  {
+    "code": "1115",
+    "name": "Akçakale",
+    "provinceCode": "63"
+  },
+  {
+    "code": "1194",
+    "name": "Bi̇reci̇k",
+    "provinceCode": "63"
+  },
+  {
+    "code": "1209",
+    "name": "Bozova",
+    "provinceCode": "63"
+  },
+  {
+    "code": "1220",
+    "name": "Ceylanpinar",
+    "provinceCode": "63"
+  },
+  {
+    "code": "1378",
+    "name": "Halfeti̇",
+    "provinceCode": "63"
+  },
+  {
+    "code": "1393",
+    "name": "Hi̇lvan",
+    "provinceCode": "63"
+  },
+  {
+    "code": "1630",
+    "name": "Si̇verek",
+    "provinceCode": "63"
+  },
+  {
+    "code": "1643",
+    "name": "Suruç",
+    "provinceCode": "63"
+  },
+  {
+    "code": "1713",
+    "name": "Vi̇ranşehi̇r",
+    "provinceCode": "63"
+  },
+  {
+    "code": "1800",
+    "name": "Harran",
+    "provinceCode": "63"
+  },
+  {
+    "code": "2091",
+    "name": "Eyyübi̇ye",
+    "provinceCode": "63"
+  },
+  {
+    "code": "2092",
+    "name": "Hali̇li̇ye",
+    "provinceCode": "63"
+  },
+  {
+    "code": "2093",
+    "name": "Karaköprü",
+    "provinceCode": "63"
+  },
+  {
+    "code": "1170",
+    "name": "Banaz",
+    "provinceCode": "64"
+  },
+  {
+    "code": "1323",
+    "name": "Eşme",
+    "provinceCode": "64"
+  },
+  {
+    "code": "1436",
+    "name": "Karahalli",
+    "provinceCode": "64"
+  },
+  {
+    "code": "1629",
+    "name": "Si̇vasli",
+    "provinceCode": "64"
+  },
+  {
+    "code": "1697",
+    "name": "Ulubey",
+    "provinceCode": "64"
+  },
+  {
+    "code": "1704",
+    "name": "Merkez",
+    "provinceCode": "64"
+  },
+  {
+    "code": "1175",
+    "name": "Başkale",
+    "provinceCode": "65"
+  },
+  {
+    "code": "1236",
+    "name": "Çatak",
+    "provinceCode": "65"
+  },
+  {
+    "code": "1309",
+    "name": "Erci̇ş",
+    "provinceCode": "65"
+  },
+  {
+    "code": "1350",
+    "name": "Gevaş",
+    "provinceCode": "65"
+  },
+  {
+    "code": "1372",
+    "name": "Gürpinar",
+    "provinceCode": "65"
+  },
+  {
+    "code": "1533",
+    "name": "Muradi̇ye",
+    "provinceCode": "65"
+  },
+  {
+    "code": "1565",
+    "name": "Özalp",
+    "provinceCode": "65"
+  },
+  {
+    "code": "1770",
+    "name": "Bahçesaray",
+    "provinceCode": "65"
+  },
+  {
+    "code": "1786",
+    "name": "Çaldiran",
+    "provinceCode": "65"
+  },
+  {
+    "code": "1918",
+    "name": "Edremi̇t",
+    "provinceCode": "65"
+  },
+  {
+    "code": "1980",
+    "name": "Saray",
+    "provinceCode": "65"
+  },
+  {
+    "code": "2098",
+    "name": "İ̇pekyolu",
+    "provinceCode": "65"
+  },
+  {
+    "code": "2099",
+    "name": "Tuşba",
+    "provinceCode": "65"
+  },
+  {
+    "code": "1117",
+    "name": "Akdağmadeni̇",
+    "provinceCode": "66"
+  },
+  {
+    "code": "1198",
+    "name": "Boğazliyan",
+    "provinceCode": "66"
+  },
+  {
+    "code": "1242",
+    "name": "Çayiralan",
+    "provinceCode": "66"
+  },
+  {
+    "code": "1245",
+    "name": "Çekerek",
+    "provinceCode": "66"
+  },
+  {
+    "code": "1602",
+    "name": "Sarikaya",
+    "provinceCode": "66"
+  },
+  {
+    "code": "1635",
+    "name": "Sorgun",
+    "provinceCode": "66"
+  },
+  {
+    "code": "1655",
+    "name": "Şefaatli̇",
+    "provinceCode": "66"
+  },
+  {
+    "code": "1726",
+    "name": "Yerköy",
+    "provinceCode": "66"
+  },
+  {
+    "code": "1733",
+    "name": "Merkez",
+    "provinceCode": "66"
+  },
+  {
+    "code": "1877",
+    "name": "Aydincik",
+    "provinceCode": "66"
+  },
+  {
+    "code": "1895",
+    "name": "Çandir",
+    "provinceCode": "66"
+  },
+  {
+    "code": "1952",
+    "name": "Kadişehri̇",
+    "provinceCode": "66"
+  },
+  {
+    "code": "1982",
+    "name": "Saraykent",
+    "provinceCode": "66"
+  },
+  {
+    "code": "1998",
+    "name": "Yeni̇fakili",
+    "provinceCode": "66"
+  },
+  {
+    "code": "1240",
+    "name": "Çaycuma",
+    "provinceCode": "67"
+  },
+  {
+    "code": "1276",
+    "name": "Devrek",
+    "provinceCode": "67"
+  },
+  {
+    "code": "1313",
+    "name": "Ereğli̇",
+    "provinceCode": "67"
+  },
+  {
+    "code": "1741",
+    "name": "Merkez",
+    "provinceCode": "67"
+  },
+  {
+    "code": "1758",
+    "name": "Alapli",
+    "provinceCode": "67"
+  },
+  {
+    "code": "1926",
+    "name": "Gökçebey",
+    "provinceCode": "67"
+  },
+  {
+    "code": "2100",
+    "name": "Ki̇li̇mli̇",
+    "provinceCode": "67"
+  },
+  {
+    "code": "2101",
+    "name": "Kozlu",
+    "provinceCode": "67"
+  },
+  {
+    "code": "1120",
+    "name": "Merkez",
+    "provinceCode": "68"
+  },
+  {
+    "code": "1557",
+    "name": "Ortaköy",
+    "provinceCode": "68"
+  },
+  {
+    "code": "1860",
+    "name": "Ağaçören",
+    "provinceCode": "68"
+  },
+  {
+    "code": "1861",
+    "name": "Güzelyurt",
+    "provinceCode": "68"
+  },
+  {
+    "code": "1866",
+    "name": "Sariyahşi̇",
+    "provinceCode": "68"
+  },
+  {
+    "code": "1921",
+    "name": "Eski̇l",
+    "provinceCode": "68"
+  },
+  {
+    "code": "1932",
+    "name": "Gülağaç",
+    "provinceCode": "68"
+  },
+  {
+    "code": "2106",
+    "name": "Sultanhani",
+    "provinceCode": "68"
+  },
+  {
+    "code": "1176",
+    "name": "Merkez",
+    "provinceCode": "69"
+  },
+  {
+    "code": "1767",
+    "name": "Aydintepe",
+    "provinceCode": "69"
+  },
+  {
+    "code": "1788",
+    "name": "Demi̇rözü",
+    "provinceCode": "69"
+  },
+  {
+    "code": "1316",
+    "name": "Ermenek",
+    "provinceCode": "70"
+  },
+  {
+    "code": "1439",
+    "name": "Merkez",
+    "provinceCode": "70"
+  },
+  {
+    "code": "1768",
+    "name": "Ayranci",
+    "provinceCode": "70"
+  },
+  {
+    "code": "1862",
+    "name": "Kazimkarabeki̇r",
+    "provinceCode": "70"
+  },
+  {
+    "code": "1884",
+    "name": "Başyayla",
+    "provinceCode": "70"
+  },
+  {
+    "code": "1983",
+    "name": "Sariveli̇ler",
+    "provinceCode": "70"
+  },
+  {
+    "code": "1268",
+    "name": "Deli̇ce",
+    "provinceCode": "71"
+  },
+  {
+    "code": "1463",
+    "name": "Keski̇n",
+    "provinceCode": "71"
+  },
+  {
+    "code": "1469",
+    "name": "Merkez",
+    "provinceCode": "71"
+  },
+  {
+    "code": "1638",
+    "name": "Sulakyurt",
+    "provinceCode": "71"
+  },
+  {
+    "code": "1880",
+    "name": "Bahşili",
+    "provinceCode": "71"
+  },
+  {
+    "code": "1882",
+    "name": "Balişeyh",
+    "provinceCode": "71"
+  },
+  {
+    "code": "1901",
+    "name": "Çelebi̇",
+    "provinceCode": "71"
+  },
+  {
+    "code": "1954",
+    "name": "Karakeçi̇li̇",
+    "provinceCode": "71"
+  },
+  {
+    "code": "1992",
+    "name": "Yahşi̇han",
+    "provinceCode": "71"
+  },
+  {
+    "code": "1174",
+    "name": "Merkez",
+    "provinceCode": "72"
+  },
+  {
+    "code": "1184",
+    "name": "Beşi̇ri̇",
+    "provinceCode": "72"
+  },
+  {
+    "code": "1345",
+    "name": "Gercüş",
+    "provinceCode": "72"
+  },
+  {
+    "code": "1487",
+    "name": "Kozluk",
+    "provinceCode": "72"
+  },
+  {
+    "code": "1607",
+    "name": "Sason",
+    "provinceCode": "72"
+  },
+  {
+    "code": "1941",
+    "name": "Hasankeyf",
+    "provinceCode": "72"
+  },
+  {
+    "code": "1189",
+    "name": "Beytüşşebap",
+    "provinceCode": "73"
+  },
+  {
+    "code": "1223",
+    "name": "Ci̇zre",
+    "provinceCode": "73"
+  },
+  {
+    "code": "1403",
+    "name": "İ̇di̇l",
+    "provinceCode": "73"
+  },
+  {
+    "code": "1623",
+    "name": "Si̇lopi̇",
+    "provinceCode": "73"
+  },
+  {
+    "code": "1661",
+    "name": "Merkez",
+    "provinceCode": "73"
+  },
+  {
+    "code": "1698",
+    "name": "Uludere",
+    "provinceCode": "73"
+  },
+  {
+    "code": "1931",
+    "name": "Güçlükonak",
+    "provinceCode": "73"
+  },
+  {
+    "code": "1172",
+    "name": "Merkez",
+    "provinceCode": "74"
+  },
+  {
+    "code": "1496",
+    "name": "Kurucaşi̇le",
+    "provinceCode": "74"
+  },
+  {
+    "code": "1701",
+    "name": "Ulus",
+    "provinceCode": "74"
+  },
+  {
+    "code": "1761",
+    "name": "Amasra",
+    "provinceCode": "74"
+  },
+  {
+    "code": "1144",
+    "name": "Merkez",
+    "provinceCode": "75"
+  },
+  {
+    "code": "1252",
+    "name": "Çildir",
+    "provinceCode": "75"
+  },
+  {
+    "code": "1356",
+    "name": "Göle",
+    "provinceCode": "75"
+  },
+  {
+    "code": "1380",
+    "name": "Hanak",
+    "provinceCode": "75"
+  },
+  {
+    "code": "1579",
+    "name": "Posof",
+    "provinceCode": "75"
+  },
+  {
+    "code": "2008",
+    "name": "Damal",
+    "provinceCode": "75"
+  },
+  {
+    "code": "1142",
+    "name": "Aralik",
+    "provinceCode": "76"
+  },
+  {
+    "code": "1398",
+    "name": "Merkez",
+    "provinceCode": "76"
+  },
+  {
+    "code": "1692",
+    "name": "Tuzluca",
+    "provinceCode": "76"
+  },
+  {
+    "code": "2011",
+    "name": "Karakoyunlu",
+    "provinceCode": "76"
+  },
+  {
+    "code": "1716",
+    "name": "Merkez",
+    "provinceCode": "77"
+  },
+  {
+    "code": "2019",
+    "name": "Altinova",
+    "provinceCode": "77"
+  },
+  {
+    "code": "2020",
+    "name": "Armutlu",
+    "provinceCode": "77"
+  },
+  {
+    "code": "2021",
+    "name": "Çinarcik",
+    "provinceCode": "77"
+  },
+  {
+    "code": "2022",
+    "name": "Çi̇ftli̇kköy",
+    "provinceCode": "77"
+  },
+  {
+    "code": "2026",
+    "name": "Termal",
+    "provinceCode": "77"
+  },
+  {
+    "code": "1296",
+    "name": "Eflani̇",
+    "provinceCode": "78"
+  },
+  {
+    "code": "1321",
+    "name": "Eski̇pazar",
+    "provinceCode": "78"
+  },
+  {
+    "code": "1433",
+    "name": "Merkez",
+    "provinceCode": "78"
+  },
+  {
+    "code": "1561",
+    "name": "Ovacik",
+    "provinceCode": "78"
+  },
+  {
+    "code": "1587",
+    "name": "Safranbolu",
+    "provinceCode": "78"
+  },
+  {
+    "code": "1856",
+    "name": "Yeni̇ce",
+    "provinceCode": "78"
+  },
+  {
+    "code": "1476",
+    "name": "Merkez",
+    "provinceCode": "79"
+  },
+  {
+    "code": "2023",
+    "name": "Elbeyli̇",
+    "provinceCode": "79"
+  },
+  {
+    "code": "2024",
+    "name": "Musabeyli̇",
+    "provinceCode": "79"
+  },
+  {
+    "code": "2025",
+    "name": "Polateli̇",
+    "provinceCode": "79"
+  },
+  {
+    "code": "1165",
+    "name": "Bahçe",
+    "provinceCode": "80"
+  },
+  {
+    "code": "1423",
+    "name": "Kadi̇rli̇",
+    "provinceCode": "80"
+  },
+  {
+    "code": "1560",
+    "name": "Merkez",
+    "provinceCode": "80"
+  },
+  {
+    "code": "1743",
+    "name": "Düzi̇çi̇",
+    "provinceCode": "80"
+  },
+  {
+    "code": "2027",
+    "name": "Hasanbeyli̇",
+    "provinceCode": "80"
+  },
+  {
+    "code": "2028",
+    "name": "Sumbas",
+    "provinceCode": "80"
+  },
+  {
+    "code": "2029",
+    "name": "Toprakkale",
+    "provinceCode": "80"
+  },
+  {
+    "code": "1116",
+    "name": "Akçakoca",
+    "provinceCode": "81"
+  },
+  {
+    "code": "1292",
+    "name": "Merkez",
+    "provinceCode": "81"
+  },
+  {
+    "code": "1730",
+    "name": "Yiğilca",
+    "provinceCode": "81"
+  },
+  {
+    "code": "1784",
+    "name": "Cumayeri̇",
+    "provinceCode": "81"
+  },
+  {
+    "code": "1794",
+    "name": "Gölyaka",
+    "provinceCode": "81"
+  },
+  {
+    "code": "1905",
+    "name": "Çi̇li̇mli̇",
+    "provinceCode": "81"
+  },
+  {
+    "code": "2017",
+    "name": "Gümüşova",
+    "provinceCode": "81"
+  },
+  {
+    "code": "2031",
+    "name": "Kaynaşli",
+    "provinceCode": "81"
+  }
+]

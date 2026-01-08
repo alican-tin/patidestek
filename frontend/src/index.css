@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Nunito", "Inter", system-ui, -apple-system, sans-serif;
+  color: #111827;
+  background: #fff7ed;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.bg-paws {
+  background-image: radial-gradient(
+      circle at 10px 10px,
+      rgba(249, 115, 22, 0.08) 2px,
+      transparent 2.5px
+    ),
+    radial-gradient(
+      circle at 30px 30px,
+      rgba(34, 197, 94, 0.06) 2px,
+      transparent 2.5px
+    );
+  background-size: 80px 80px;
+}
