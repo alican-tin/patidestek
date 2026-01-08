@@ -1,5 +1,5 @@
 import React, { useState, useCallback } from 'react';
-import { Button, Spinner, Alert } from 'flowbite-react';
+import { Spinner, Alert } from 'flowbite-react';
 
 interface CloudinaryUploadProps {
   onUpload: (url: string) => void;

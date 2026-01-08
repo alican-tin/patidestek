@@ -59,6 +59,7 @@ const AdminCommentReports: React.FC = () => {
   };
 
   const handleDeleteComment = async (report: CommentReport) => {
+    if (!report.comment) return;
     if (!confirm('Bu yorumu kalıcı olarak silmek istediğinizden emin misiniz?')) return;
     setActionLoading(report.id);
     try {
@@ -72,7 +73,8 @@ const AdminCommentReports: React.FC = () => {
   };
 
   const handleBanUser = async (report: CommentReport) => {
-    const userName = report.comment?.user?.name;
+    if (!report.comment?.user) return;
+    const userName = report.comment.user.name;
     if (!confirm(`${userName} kullanıcısını banlamak istediğinizden emin misiniz?`)) return;
     setActionLoading(report.id);
     try {

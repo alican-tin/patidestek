@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
-import { Card, Badge, Spinner, Alert, Button, Textarea, Modal, Select, Label } from 'flowbite-react';
+import { Card, Spinner, Alert, Button, Textarea, Modal, Select, Label } from 'flowbite-react';
 import api from '../lib/api';
 import { Post, Comment } from '../types';
 import { useAuth } from '../contexts/AuthContext';
