@@ -16,14 +16,22 @@ async function bootstrap() {
   );
 
   const frontendUrl = configService.get<string>('FRONTEND_URL') || 'http://localhost:5173';
-  const allowedOrigins = [
-    'http://localhost:5173',
-    'http://127.0.0.1:5173',
-    frontendUrl,
-  ].filter((origin, index, self) => self.indexOf(origin) === index);
-
+  
   app.enableCors({
-    origin: allowedOrigins,
+    origin: (origin, callback) => {
+      const allowedOrigins = [
+        'http://localhost:5173',
+        'http://127.0.0.1:5173',
+        frontendUrl,
+      ];
+      // Allow requests with no origin (mobile apps, curl, etc.)
+      if (!origin) return callback(null, true);
+      // Allow any vercel.app subdomain
+      if (origin.endsWith('.vercel.app')) return callback(null, true);
+      // Allow listed origins
+      if (allowedOrigins.includes(origin)) return callback(null, true);
+      callback(null, false);
+    },
     credentials: false,
     allowedHeaders: ['Content-Type', 'Authorization'],
     methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'OPTIONS'],
