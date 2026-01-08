@@ -109,9 +109,9 @@ export class HealthController {
           const existing = await this.dataSource.query('SELECT id FROM posts WHERE title = $1', [post.title]);
           if (existing.length === 0) {
             const result = await this.dataSource.query(
-              `INSERT INTO posts (title, description, type, status, "categoryId", "userId", "provinceName", "districtName", "createdAt", "updatedAt")
-               VALUES ($1, $2, $3, 'APPROVED', $4, $5, 'İstanbul', 'Kadıköy', NOW(), NOW()) RETURNING id`,
-              [post.title, post.desc, post.type, categoryId, userId]
+              `INSERT INTO posts (title, description, status, "categoryId", "userId", "provinceCode", "provinceName", "districtCode", "districtName", "createdAt", "updatedAt")
+               VALUES ($1, $2, 'APPROVED', $3, $4, '34', 'İstanbul', '1421', 'Kadıköy', NOW(), NOW()) RETURNING id`,
+              [post.title, post.desc, categoryId, userId]
             );
             const postId = result[0].id;
             
